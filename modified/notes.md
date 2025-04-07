@@ -33,6 +33,8 @@
 
 ## Changelog
 
+New content is **bolded**.
+
 - Spark
 
   - Renamed to _fate_.
