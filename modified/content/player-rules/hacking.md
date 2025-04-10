@@ -26,7 +26,7 @@ ICE may place protection of _both_ remote connections, physical connections, or 
 - **Network ICE** protects all _remote connections_ in a network.
 - **Device ICE** protects both _remote and physical connections_ for a given device.
 
-_Any ICE, once bypassed and until it is replaced, is no longer effective for this terminal._ A device may have both device-level and network-level ICE, in which case both need to be surpassed before the hacker can gain access to the device.
+_Any ICE, once bypassed and until it is replaced, is no longer effective._ A device may have both device-level and network-level ICE, in which case both need to be surpassed before the hacker can gain access to the device.
 
 Often, weaker networks will have only their exposed devices be protected by device ICE, and everything else be protected by network ICE. This means that a successful attack against the exposed device will strip all other devices of their protection, as the network ICE - their only safety net - has been bypassed and is thus no longer effective.
 
