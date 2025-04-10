@@ -166,13 +166,19 @@ New content is **bolded**.
   - Factions get as many moves as their tier, per turn.
   - Moves include advancing goals, delaying other faction's pools and acquiring assets/resources.
 
+- Push Yourself
+
+  - Allows players to _burn a fate slot_ instead of getting a mark.
+  - No longer free once per session.
+
 - **Magic**
 
   - TODO: Write the Magic module.
 
 - **Hacking**
 
-  - TODO: Write the Hacking module.
+  - Characters can hack devices and networks with an action roll and a hacking terminal.
+  - Often, are stopped by ICE.
 
 - **Combat**
 

@@ -24,7 +24,7 @@ The winner narrates how they won. Then, the loser narrates how they handle losin
 
 ## Push Yourself
 
-Expend extra effort to activate certain talents that require it. After using the talent, **_mark a related stat_** (_your choice_). Talents that require you to push yourself can be activated without a mark once per session.
+Expend extra effort to activate certain talents that require it. After using the talent, **_mark a related stat_** (_your choice_) or **_burn a fate slot_**.
 
 ## Interrupt
 
