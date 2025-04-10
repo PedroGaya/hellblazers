@@ -37,3 +37,17 @@ If a hacker is caught or makes a fatal mistake, regular ICE often either blocks 
 However, more often than not, hackers make inocuous mistakes that allow them to be traced, or at the very least, alert system administrators of their presence.
 
 **Black ICE** employs more destructive countermeasures by counter-hacking the terminal itself - bricking it, inducing overheating, stealing data or, in the case of **biodigital terminal cyberware**, attacking the hacker directly by frying their interface.
+
+## At The Speed Of Light
+
+Hacking has several factors that contribute to its duration, including but not limited to the connection's speed, how fast the programs at use run, the computers' processing power, etc. There are no easy ways to speed up most of the processes, save for the speed of the hacker themselves.
+
+Hacking requires solid pattern recognition and adaptation, skills which require thinking, and thinking takes time. Thinking faster means faster hacking. Think too fast, and whatever you type can't keep up with your brain. Due to this, hackers often employ **performance drugs**, **stenography** and **purpose-built tools**. This includes methamphetamines, stenography keyboards made for programmers and isolating visors.
+
+In the arms race for speed, usage of a biodigital interface is common, as it allows its user to interface with computers at (roughly) the speed of thought, bypassing most time constraints.
+
+## Daemons
+
+Daemons are specialized AI programs used by hackers and sysadmins alike to automate onerous tasks, such as scanning an entire network. When used as part of security, they're a part of ICE protocols. When used by hackers, they're attack programs purpose built to exploit certain vulnerabilities and systems.
+
+In terms of raw, statistical success rate, they're better than any human. However, they're gatekept by hardware - some things are simply too slow to keep up. Hence, speed matters, and when not dealing with ICE daemons, hackers are up against system administrators that need, invariably, to _think_.
