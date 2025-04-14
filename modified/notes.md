@@ -152,7 +152,7 @@ New content is **bolded**.
     - **Acquisition**: Peruse and purchase _improvements_ or _equipment_.
     - **Commune**: Shared time with the crew.
     - **Work**: The GM sets a diminishing pool as work or a project, which is then rolled.
-    - **Circles**: The GM makes tension roll to create an NPC according to the player's needs and vantage.
+    - **Circles**: The GM rolls an NPC according to the player's needs and vantage.
   - How many activities depends on their reputation (usually, two activities per downtime).
 
 - **Faction Turn**

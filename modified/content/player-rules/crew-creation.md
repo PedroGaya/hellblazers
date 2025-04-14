@@ -20,7 +20,7 @@ Choose as two from the list provided by your crew type. Use this time to take a 
 
 ## Reputation
 
-Determine your starting reputations based on improvements and lair. Heat and Fame start at 0.
+Determine your starting reputations based on improvements and lair.
 
 ## Special Ability
 

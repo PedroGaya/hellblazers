@@ -81,14 +81,8 @@ Sometimes, shit happens. To avoid delegating such unfortunate circumstances, mak
 
 ### Skiping It
 
-When nothing comes to mind, skip the impact move and generate tension instead! You can also skip impact moves by prompt of a talent, _Lucky Breaks_, etc. In any case, whenever you skip a prompted impact move, you **build tension**, and **you must add the skipped impact move to the crew's entanglement table**.
+When nothing comes to mind, skip the impact move and generate tension instead! You can also skip impact moves by prompt of a talent, _Lucky Breaks_, etc. In any case, whenever you skip a prompted impact move, you **build tension**, and **you may add the skipped impact move to the crew's entanglement table**.
 
 ## Tension Roll
 
-The GM rolls the tension pool to delegate a decision to pure luck:
-
-- **6**: The characters get as unlucky as needed to muck their plans. _Propmts an impact move_.
-- **4/5**: The characters avoid a disaster, but there still minor consequences.
-- **1-3**: The characters get a lucky break.
-
-In the case of a 6, use the amount and distribution of dropped dice to determine the severity of the impact move and its consequences, as well as how to split it amongst PCs.
+The GM rolls the tension pool to delegate a decision to pure luck, using either its results as a roll and/or the amount of dropped dice to guide the fiction. In general, results are unfavorable to the players, proportionally to how many dice were dropped.

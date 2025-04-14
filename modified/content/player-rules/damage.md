@@ -15,7 +15,7 @@ A hard hit your mind or body, general damage that doesn't need to be tracked in 
 - Physical damage leaves you **bloodied**
 - Mental damage leaves you **rattled**
 
-Like marks, **_Bloodied and rattled each inflict +1t on all rolls under their stat_**, but don't clear after the roll. Getting bloodied or rattled a second time leaves you **dropped** - you're out of the scene. Make a story roll (_usually 2d_) to see if you're just out temporarily, take a condition, or wind up dead.
+Like marks, **_Bloodied and rattled each inflict +1t on all rolls under their stat_**, but don't clear after the roll. Getting bloodied or rattled a second time leaves you **dropped** - you're out of the scene. Make a tension roll to see if you're just out temporarily, take a condition, or wind up dead.
 
 Although bloodied and rattled are the default, especially dangerous attacks with **high risk** can lead straight to dropped, while **low risk** situations might leave you with a mark by default.
 

@@ -16,10 +16,6 @@ Assets that can be purchased with resources. Represent better shared equipment a
 
 Ranging from -3 to +3, with escalating benefits and consequences. At -3, you're at **war** and enter a **crisis**. At +3, they'll help you out in this war.
 
-## Heat
-
-Regardless of crew type, you're a target for authorities and other crews. Heat represents how hard your enemies are gunning for you at this moment. Once you gain enough heat, you gain a level of **fame** (For better or worse).
-
 ## Entanglements Table
 
 Some consequences are only felt later. They are registered in your crews **d20 entanglements table**, representing all manner of things that can happen to you during downtime. Managed in secret by the GM.
