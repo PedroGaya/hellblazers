@@ -6,11 +6,7 @@ Your upbringing and life paths - the core of your vantage. Each path gives you t
 
 ## Traits
 
-Choose 2 that strongly define you and 1 that definitely doesn't.
-
-## Desires
-
-Choose 2 that you strong desire and 1 that you don't at all.
+Use your background to choose 3 that strongly define you and 2 that definitely don't. Why are you like this?
 
 ## Features
 
