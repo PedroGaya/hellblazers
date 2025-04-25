@@ -21,7 +21,7 @@ Although bloodied and rattled are the default, especially dangerous attacks with
 
 A messy defense roll leaves you with lesser damage - dropped becomes bloodied, rattled becomes a mark.
 
-Sometimes, harm under a stat may affect rolls on another - being rattled may make concetrating on a fight much harder. When the fiction calls for it, the GM may apply thorns from a type of harm into a roll under another, as "spill over".
+Sometimes, harm under a stat may affect rolls on another - being rattled may make concetrating on a fight much harder. When the fiction calls for it, the GM may apply thorns from a type of harm into a roll under another, as "spill-over".
 
 ## Conditions
 
@@ -49,3 +49,9 @@ Interpret the response. Your PC is _driven by emotion_, but you decide how it pl
 **_When you get bloodied or rattled, start a 4d pool_** to track its healing. When you **heal** harm from rest, treatment, or another source, roll the pool. At 0d, clear the harm. **_Treatment_** requires _time, tools, training_ and carries risk, and each pool can benefit from treatment only a single time.
 
 **_Marks can't benefit from treatment_**. They are light enough already that only time heals them. They can only be cleared with rest, talents or rolling.
+
+## Scars
+
+As characters go about their lives, they're bound to get hurt. Get hurt enough times and you change.
+
+Whenever you survive an otherwise lethal or traumatic situation, or would gain a permament or long-lasting condition, you may also add a new **trait** or **anti-trait** to your character sheet.

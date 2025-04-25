@@ -41,6 +41,6 @@ As soon as downtime starts, clear all marks and burned fate slots, roll all heal
 
 - **Recover**: Go to a doctor, hospital, or otherwise unwind. Roll any relevant healing or condition pool once, then spend one resource per dice dropped.
 - **Acquisition**: Peruse and purchase _improvements_ or _equipment_ not covered by your lifestyle rating.
-- **Commune**: Shared time with the crew. Spend crew xp for special abilities, run _character votes_ for bonus XP and changing your character details.
+- **Commune**: Shared time with the crew. Spend crew xp for special abilities, run _character votes_ for bonus XP and updating your character traits and bonds.
 - **Work**: The GM sets a diminishing pool according to the size of the work, as well as determining what happens when cleared. Roll it when working.
 - **Circles**: The GM makes tension roll to create an NPC according to the player's needs and vantage.
