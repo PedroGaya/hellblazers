@@ -5,7 +5,7 @@
 When things get _risky_ and _dramatic_, roll to see what happens. Grab a few d6 dice (_d_) equal to the stat the GM picks to test, roll them, and take the highest to determine the **outcome** - 6: **Perfect**, 4-5: **Messy**, 1-3: **Grim**.
 
 - A **critical** happens when you roll two or more 6s. **_Ignore any cuts_** and choose a **critical bonus**: _greater effect_ - _secondary effect_ - _setup a follow up_.
-- A **disaster** happens when a grim result is cut by a **thorn**. Whatever the risk was before, _double it_ - the worst case scenario comes to pass.
+- A **disaster** happens when a grim result is cut by a **_thorn_**. Whatever the risk was before, _double it_ - the worst case scenario comes to pass.
 
 ## Thorns
 
@@ -27,16 +27,16 @@ If a grim threatens to grind the story to a halt, the GM can **keep things movin
 
 ## Fate
 
-_**Fate** represents your character's capacity to ride the synchronicity freeway._ It's a d6, you can have up to three at a time, and **spend** it to shape and twist reality to your character's advantage:
+_**Fate** represents your character's capacity to ride the synchronicity freeway._ It's a d6, you can have up to three at a time and can **spend** them to:
 
 - _**Get +1d on a roll**_ - Supernatural effort, coincidences;
-- _**Introduce facts** to the fiction as a **boon**_ - Something that just happened to be true;
-- _**Cheat death**_ - Avoid an instance of **harm** and take a **mark** instead.
+- _**Introduce a fact** to the fiction as **coincidence**_ - Something that just happened to be true and that affects the scene;
+- _**Cheat death**_ - Avoid an instance of **physical harm** and take a **mark** instead.
 
-You can earn fate by introducing **banes** and playing towards your goals and beliefs.
+You can earn fate by introducing **complications**, playing towards your goals and beliefs, getting into quarrels, etc.
 
 ## Tension
 
-_When reality gets twisted, you build **tension**_ - it's a shared **diminishing pool** of dice representing how _twisted_ reality is (because of your meddling, of course). If too much tension builds up, reality lashes out, dealing karmic justice. **Add 1d to the tension pool whenever fate is spent.**
+_When you spend fate and twist reality, it builds **tension**_ - A shared **diminishing pool** of dice representing accumulated suspense, bad mojos and the incoming price to be paid. If too much tension builds up, reality lashes out, dealing karmic justice. **Add 1d to the tension pool whenever fate is spent.**
 
-**The GM can spend a tension die to prompt an impact move at any time**. Additionally, the GM can _roll the tension pool_ whenever a decision needs to be delegated to luck.
+**The GM can spend a tension die to prompt an impact move at any time**. Additionally, the GM can _roll the tension pool_ whenever a decision needs to be delegated to luck or unluck.
