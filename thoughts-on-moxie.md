@@ -20,16 +20,16 @@ This makes it all the more annoying for me, as my first order of business is to 
 
 ## Remixing Moxie
 
-Specifically, the plan is to have both spark and suspense be **diagetic** "meta"-currencies. Regular meta-currencies are player-initiated changes to the game state - **Players** _will_ a modification to the fiction and spend a point to do it. To make this dynamic diagetic is to imply that the reality of fiction itself is warping, for whatever reason, to abide by player or character goals.
+Specifically, the plan is to have both spark and suspense be **diegetic** "meta"-currencies. Regular meta-currencies are player-initiated changes to the game state - **Players** _will_ a modification to the fiction and spend a point to do it. To make this dynamic diegetic is to imply that the reality of fiction itself is warping, for whatever reason, to abide by player or character goals.
 
-The characters, by themselves, have nothing to do with "spending spark" - this is something the player does to give the character a boon, for no other reason than they are the protagonists of this story. To make spark (and its expenditure) diagetic implies that some _fundamental force of reality_ favors the player characters, and that this force operates by the _rules of stories_. Similarly, diagetic suspense implies that reality itself is building up "karma" of some sort, and is ready to lash out at the GMs discretion.
+The characters, by themselves, have nothing to do with "spending spark" - this is something the player does to give the character a boon, for no other reason than they are the protagonists of this story. To make spark (and its expenditure) diegetic implies that some _fundamental force of reality_ favors the player characters, and that this force operates by the _rules of stories_. Similarly, diegetic suspense implies that reality itself is building up "karma" of some sort, and is ready to lash out at the GMs discretion.
 
 ## Catastrophe
 
 This change alone, while seemingly simple, has several cascading consequences:
 
 - It imposes severe constraints on the fiction, as noted above;
-- Diagetic suspense means that some suspense moves no longer make sense;
+- diegetic suspense means that some suspense moves no longer make sense;
 - Accumulated suspense means accumulated karma, which needs an escape valve;
 - Story moves become hazy territory, while impact moves are fine;
 - Every single spark expenditure in the game has to abide by these new rules of reality;
@@ -37,10 +37,6 @@ This change alone, while seemingly simple, has several cascading consequences:
 - Vantage gets hit. What does it mean for something to be a stretch when reality can warp to the players needs?
 - Why would you be able to warp reality _(earn spark)_ by getting into quarrels and the like?
 - Repeat the above question for tangles, story arcs, etc.
-- Why are some mechanics diagetic - spark and suspense - while stuff like story arcs are still in the game, as is?
+- Why are some mechanics diegetic - spark and suspense - while stuff like story arcs are still in the game, as is?
 
-Notice that almost every sub-system in Moxie is affected by this - this is because, while Moxie is overall a loosely coupled system, spark and suspense both have high coupling. Some stuff got out of this mess scot-free, though - stats, damage, character details. In short, to implement _diagetic spark and diagetic suspense_, I need to touch up almost every single Moxoe system. This is the catastrophe.
-
-## Doom?
-
-Not doom! These problems have solutions, and this is the rundown of it:
+Notice that almost every sub-system in Moxie is affected by this - this is because, while Moxie is overall a loosely coupled system, spark and suspense both have high coupling. Some stuff got out of this mess scot-free, though - stats, damage, character details. In short, to implement _diegetic spark and diegetic suspense_, I need to touch up almost every single Moxie system. This is the catastrophe.
