@@ -20,8 +20,8 @@
 - [x] Downtime
 - [x] Odds and Ends
 
-- [ ] Magic
-- [ ] Hacking
+- [x] Magic
+- [x] Hacking
 - [ ] Combat
 
 ### GM Rules
@@ -70,17 +70,17 @@ New content is **bolded**.
 
 - Story Points
 
-  - Removed from the game, coupled into _story twists_ as _boons_.
+  - Removed from the game, coupled into _story twists_ as _coincidences_.
 
 - Tangles
 
-  - Removed from the game, coupled into _story twists_ as _banes_.
+  - Removed from the game, coupled into _story twists_ as _complications_.
 
 - **Story Twists**
 
-  - Twists can be banes or boons.
-    - Banes work like old tangles. Get a _disadvantage_ for a fate point and drop tension.
-    - Boons work like old story points. Get an _advantage_ and build tension in exchange for fate.
+  - Twists can be complications or coincidences.
+    - Complications work like old tangles. Get a _disadvantage_ for a fate point and drop tension.
+    - Coincidences work like old story points. Change the scene and build tension in exchange for fate.
 
 - Character Details
 
@@ -91,6 +91,9 @@ New content is **bolded**.
   - **Resources** and **Lifestyle**
     - Abstractions of purchasing power and, well, lifestyle.
   - **Stash** for resources and equipment.
+  - Removed _desires_
+    - +1 Trait and +1 Anti-Trait as compensation.
+    - Twice as many available traits, half "good" and half "bad"
 
 - **Life Paths**
 
@@ -112,6 +115,8 @@ New content is **bolded**.
   - Harm now only applies to rolls under its governed stats.
   - Thorns from marks now stack with harm.
   - Vex no longer applies thorns.
+  - Characters can get **scarred**.
+    - Update your traits when traumatized or similar.
 
 - **Equipment**
 
@@ -173,7 +178,8 @@ New content is **bolded**.
 
 - **Magic**
 
-  - TODO: Write the Magic module.
+  - Works like "real like magic" - occult traditions, goethia, etc.
+  - Consequences are **bad**.
 
 - **Hacking**
 
