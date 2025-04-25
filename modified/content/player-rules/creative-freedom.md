@@ -26,22 +26,20 @@ If you want introduce story details to the fiction that go beyond set dressing, 
 
 When adding details, avoid overriding rolls or contradicting the established fiction. If your details affect other PCs or are a bit of a reach, always ask for permission and discuss with the group. The GM has veto power if things get out of hand and can always make a tension roll to see if the twist has the intended effect.
 
-### Banes
+### Complications
 
-Character-driven complications you add to a scene and have to follow-up on. They must stem from your character details and always have an immediate impact, like an action roll, an option closing off, or forcing inaction at an important moment. These are things like:
+Character-driven "tangles" you add to a scene and have to follow-up on. They must stem from your character details and always have an immediate impact, like an action roll, an option closing off, or forcing inaction at an important moment. These are things like:
 
 - **_Unwise decisions_** your PC would likely make.
 - **_Personal motivations_** over group goals.
-- **_Complications_** from beliefs or backstory.
-- If unsure, **_get a disadvantage_**.
+- **_Trouble_** from beliefs or backstory.
 
-In short, your character's attitude and history introduce previously unseen difficulties. Reality, however, rewards your ambition - **Whenever you introduce a bane, drop a tension die and take it as fate**.
+In short, your character's attitude and history introduce previously unseen difficulties. **Whenever you introduce a complication, drop a tension die and take it as fate**.
 
-### Boons
+### Coincidences
 
-Facts added to a scene that significantly change the situation in your favor. Like with banes, these must be tied to your character details and have an immediate impact. **To introduce a boon, spend fate and add it to the tension pool**.
+Facts added to a scene that significantly change the situation in any way. Like with complications, these must be tied to your character details and/or immediately shift your vantage. **To introduce a coincidence, spend fate and add it to the tension pool**. These are things like:
 
-- **_Unlikely help_** from previously unseen allies.
-- **_Convenient happenstances_** or a new opportunity.
-- **_Useful setting changes_** that further your personal goals.
-- If unsure, **_get an advantage_**.
+- **_Character_**: Gear, contacts, backstory...
+- **_Scene_**: NPC actions, objects, atmospherics...
+- **_Setting_**: History, geography, factions...
