@@ -58,13 +58,9 @@ Make the location an important, proactive part of the scene. Identify environmen
 - **Specialists**
   - Strong groups optimized for a singular goal.
 
-### Boss Fights
+#### Boss Fights
 
-Must have great variation in tactics, roles and battlegrounds, as well as well defined "win" and "lose" conditions for all parties involved. May include a boss-tier enemy, or a similarly effective group of other enemy types.
-
-### Morale
-
-Most enemies are not willing to die or make great sacrifices in a fight. Before combat starts, when enemy numbers are reduced by half, or when the fight is close to over, the GM may decide to have enemies give up due to morale.
+Must have great variation in tactics, roles and battlegrounds, as well as pre-defined "win" and "lose" conditions for all parties involved. May include a boss-tier enemy, or a similarly effective group of other enemy types.
 
 ## Running Combat
 
@@ -91,6 +87,10 @@ You map the fiction to the rules just like any scene, making rulings to fill in 
 **Vulnerabilities**: Exploiting a vulnerability can lower thorns, drop 1 before rolling a pool, or even bypass the need for a roll. In some cases, finding a vulnerability is required to attack at all.
 
 **Ranged vs. Melee**: Precise ranged attacks demand focus, which is tough with nearby threats. Inflict +1t to these rolls when under immediate danger.
+
+#### Morale
+
+Most enemies are not willing to die or make great sacrifices in a fight. Before combat starts, when enemy numbers are reduced by half, or when the fight is close to over, the GM may decide to have enemies give up due to morale.
 
 #### Initiative
 
