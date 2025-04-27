@@ -22,7 +22,7 @@
 
 - [x] Magic
 - [x] Hacking
-- [ ] Combat
+- [x] Combat
 
 ### GM Rules
 
@@ -185,7 +185,3 @@ New content is **bolded**.
 
   - Characters can hack devices and networks with an action roll and a hacking terminal.
   - Often, are stopped by ICE.
-
-- **Combat**
-
-  - TODO: Update the Combat module.
