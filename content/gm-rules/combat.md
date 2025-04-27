@@ -2,7 +2,7 @@
 
 ## Combat Kit
 
-GM tools to create dynamic **_antagonists_** and **_combat scenarios_** quickly. **Tier** is an opponent's threat level. **Role** is a keyword used to guide its behavior in battle to vary its tactics. **Battlegrounds** make the environment a proactive or obstacle-ridden part of the scene. Mix these for dynamic combats.
+GM tools to create dynamic **_antagonists_** and **_combat scenarios_** quickly. **Tier** is an opponent's threat level. **Role** is a keyword used to guide its behavior in battle to vary its tactics. **Battlegrounds** make the environment a proactive or obstacle-ridden part of the scene. Mix these for dynamic combats. **Encounter** types represent typical ways in which combat happens.
 
 ### Tiers
 
@@ -21,22 +21,22 @@ GM tools to create dynamic **_antagonists_** and **_combat scenarios_** quickly.
 - **Boss**
   - Commands the scene.
   - A 6d/8d challenge or linked challenge.
-  - Extremely powerful.
+  - Extremely powerful and versatile.
 
 ### Roles
 
-- **Blaster**
 - **Brute**
-- **Lurker**
-- **Marksman**
-- **Overseer**
-- **Marauder**
-- **Predator**
-- **Protector**
-- **Skirmisher**
-- **Swarmer**
-- **Tactician**
+  - Tough and strong. Must be dealt with, but are immobile.
+- **Artillery**
+  - Easy to beat, low mobility. Effective from any range, can focus fire.
+- **Infantry**
+  - Cannot be easily ignored. Protects others. Blocks movement.
+- **Striker**
+  - Only goal is to do as much damage as possible. Fragile and mobile.
 - **Trickster**
+  - Do whatever needed to advance their group's goals.
+- **Leader**
+  - Improves the performance of the whole group, but weak on their own.
 
 ### Battleground
 
@@ -45,17 +45,26 @@ Make the location an important, proactive part of the scene. Identify environmen
 - **Features**: Elements likely to impact, usually complicating, the ongoing action. _They have a strong effect on vantage and difficulty_.
 - **Threats**: Hazards that present extra dangers. They may repeat on a timer pool, or be static impact moves. _They have a strong proactive presence in the scene_.
 
-### Example
+### Encounters
 
-**Note**: Enemies gathered into a single task pool are listed with the dice in front _(4d Enemies)_. Challenges are shown with a | after the pool _(8d | Challenge)_.
+- **Patrols**
+  - Weak groups on fixed routes whose goal is to warn others of trouble.
+- **Scouts**
+  - Roaming groups that seek trouble. Aim to disrupt and flee.
+- **Guards**
+  - Stationed in key positions. Can warn others or deal with problems themselves.
+- **Reserves**
+  - Stationed in barracks or similar, await trouble to act. Often occupied.
+- **Specialists**
+  - Strong groups optimized for a singular goal.
 
-- **_Battleground_**
-  - **Features**: _Dangerous Feature #1, Dangerous Feature #2_
-  - **Threats**: _4d Threat_, _Bigger Move Threat_
-  - **Challenges**:
-    - 4d Random Guys _(Mook Blasters)_
-    - 1 Lieutenant Guy _(Elite Brute)_
-    - 8d | Boss Guy _(Boss Overseer)_
+### Boss Fights
+
+Must have great variation in tactics, roles and battlegrounds, as well as well defined "win" and "lose" conditions for all parties involved. May include a boss-tier enemy, or a similarly effective group of other enemy types.
+
+### Morale
+
+Most enemies are not willing to die or make great sacrifices in a fight. Before combat starts, when enemy numbers are reduced by half, or when the fight is close to over, the GM may decide to have enemies give up due to morale.
 
 ## Running Combat
 
@@ -82,3 +91,15 @@ You map the fiction to the rules just like any scene, making rulings to fill in 
 **Vulnerabilities**: Exploiting a vulnerability can lower thorns, drop 1 before rolling a pool, or even bypass the need for a roll. In some cases, finding a vulnerability is required to attack at all.
 
 **Ranged vs. Melee**: Precise ranged attacks demand focus, which is tough with nearby threats. Inflict +1t to these rolls when under immediate danger.
+
+#### Initiative
+
+If you want a more structured way to change the spotlight, use these variants of token initiative:
+
+##### Regular
+
+Give each players **two tokens**, which they can spend at any time to _seize the spotlight_ and do a beat (usually an action roll). Once everyone spent their tokens, the situation changes and everyone gets their tokens back. The GM interjects at will.
+
+##### Scrambles
+
+Each player adds **two tokens** to a bag, and the GM adds a _round end token_. Players take tokens out of the bag and act accordingly. If the round end token is pulled, the GM changes the situation and everyone puts their tokens back into the bag. The GM interjects at will, or adds their own tokens to the bag.
