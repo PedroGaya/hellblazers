@@ -65,17 +65,31 @@ If a grim threatens to grind the story to a halt, the GM can **keep things movin
 
 _**Fate** represents your character's capacity to ride the synchronicity freeway._ It's a d6, you can have up to three at a time and can **spend** them to:
 
-- _**Get +1d on a roll**_ - Supernatural effort, coincidences;
-- _**Introduce a fact** to the fiction as **coincidence**_ - Something that just happened to be true and that affects the scene;
+- _**Get +1d on a roll**_ - For supernatural effort, strength, etc.;
+- _**Introduce a fact** to the fiction as a **coincidence**_ - Something that just happened to be true and that affects the scene;
 - _**Cheat death**_ - Avoid an instance of **physical harm** and take a **mark** instead.
 
 You can earn fate by introducing **complications**, playing towards your goals and beliefs, getting into quarrels, etc.
 
+### It's Magic, You Know?
+
+You can only _ride the synchronicity freeway_ if you accept the intangibles of the world - That there are unseen forces, supernatural actors or whatever fits your fancy. If your character see the world as only ifs and buts, then **they cannot spend or earn fate**. They can, however, **push themselves**.
+
 ## Tension
 
-_When you spend fate and twist reality, it builds **tension**_ - A shared **diminishing pool** of dice representing accumulated suspense, bad mojos and the incoming price to be paid. If too much tension builds up, reality lashes out, dealing karmic justice. **Add 1d to the tension pool whenever fate is spent.**
+_Whenever you spend fate and twist reality, it **builds** **tension**_ - A shared **diminishing pool** of dice representing accumulated suspense, bad mojos and the incoming price to be paid. If too much tension builds up, reality lashes out, dealing karmic justice. **Add 1d to the tension pool whenever fate is spent.**
 
-**The GM can spend a tension die to prompt an impact move at any time**. Additionally, the GM can _roll the tension pool_ whenever a decision needs to be delegated to luck or unluck.
+**The GM can spend a tension die to prompt an impact move at any time**. Additionally, the GM can _roll the tension pool_ whenever a decision needs to be delegated to luck (or unluck).
+
+## Push Yourself
+
+Grit your teeth and expend extra effort. **_Mark a related stat_** (_your choice_) then **_burn a fate slot_** to:
+
+- Get +1 or cheat death _**as if** you spent fate_.
+- Activate certain **_talents_**.
+- Drop the last die of a diminishing pool.
+
+When you **_burn a fate slot_**, you reduce the amount of fate you can hold at once by one. Burned slots are restored during **downtime**. If you ever exceed the maximum, spend the excess fate immediately or **build tension**.
 
 # Working Together
 
@@ -85,15 +99,15 @@ You help another PC on a roll. State **how & why**, then **_roll 1d and share th
 
 **_You can assist when another PC's actions prompts an impact move._** You make a 1d defense roll for them.
 
-When you **share the risk**, you open yourself up to the consequences, which can prompt a more powerful or additional impact move, or the GM can take suspense instead.
+When you **share the risk**, you open yourself up to the consequences, which can prompt a more powerful or additional impact move, or the GM can build tension instead.
 
 ## Teamwork
 
-When 3+ PCs work togetherm the GM picks who rolls the action - sometimes the most skilled, sometimes the least. The other PCs assist.
+When 3+ PCs work together the GM picks who rolls the action - sometimes the most skilled, sometimes the least. The other PCs assist.
 
 ## Setup
 
-When a previous action makes a follow-up more effect, you assist without risk. You roll 1d as a normal assist, but don't share the risk.
+When a previous action makes a follow-up more effective, you assist without risk. You roll 1d as a normal assist, but don't share the risk.
 
 ## Outside Assistance
 
@@ -135,9 +149,9 @@ If multiple PCs join, **_each rolls 2d and shares the risk_**. Collaborate on th
 
 A set of d6s used to track things like time, resources or effort. When triggered, roll the pool and **drop** 1d for each 1-3 result. At 0d, the pool depletes and the fiction changes.
 
-The size of a pool is **4d**/_short_, **6d**/_mid_, or **8d**/_long_. At **0d**, an event occurs, a situation ends or a resource is depleted. Make sure to reflect the fiction - if a pool and the fiction don't match up, adjust or scrap the pool.
+The size of a pool is **4d**/_short_, **6d**/_average_, or **8d**/_long_. At **0d**, an event occurs, a situation ends or a resource is depleted. Make sure to reflect the fiction - if a pool and the fiction don't match up, adjust or scrap the pool.
 
-- If not dice are dropped from a task pool on a messy or perfect action roll, instead take a **secondary effect**. If the roll was only 1d, you can instead **push yourself** to drop the last die.
+- If not dice are dropped from a task pool on a messy or perfect action roll, instead take a **secondary effect**. If the roll was only 1d, you can always **push yourself** to drop the last die.
 
 - **Drop** 1d from the pool before rolling it when a talent tells you to do so, you have potency or you take the _greater effect_ critical bonus. This stacks.
 
@@ -195,7 +209,7 @@ When adding details, avoid overriding rolls or contradicting the established fic
 
 ### Complications
 
-Character-driven "tangles" you add to a scene and have to follow-up on. They must stem from your character details and always have an immediate impact, like an action roll, an option closing off, or forcing inaction at an important moment. These are things like:
+Character-driven "tangles" you add to a scene and have to follow-up on. They must stem from your character details and always have an immediate impact, like a defense roll, an option closing off, or forcing inaction at an important moment. These are things like:
 
 - **_Unwise decisions_** your PC would likely make.
 - **_Personal motivations_** over group goals.
@@ -222,7 +236,7 @@ Each life path includes six professions, granting unique stats and wises. Turnin
 - **Age**: Start at 16 y/o.
 - **Stats**: Start with 1 in each.
 - **Social Class**: Roll 2d, pick one and increase its indicated stats.
-- **Birthplace**: Roll 2d, pick one. After, roll 2d and pick a block.
+- **Birthplace**: Roll 2d, pick one.
 - **Resources and Lifestyle**: Set them as indicated by your social class.
 
 ## Life Paths
@@ -233,8 +247,8 @@ Each life path includes six professions, granting unique stats and wises. Turnin
 - **Lifestyle**: Modify it by the indicated amount.
 - **Stats**: Increase indicated stats by one.
 - **Wises**: Note down your three wises, or create your own.
-- **Equipment and Cyberware**: Spend your resources to buy what you want _and_ what is required of you.
-- **Age**: Roll 2d, choose 2 to add to age.
+- **Equipment and Cyberware**: Spend your resources to buy what you want _and_ what is required of your profession.
+- **Age**: Roll 2d, choose one or both to add to age.
 - **Turning Point**: Roll 2d, pick one.
 
 Repeat for the second life path.
@@ -247,10 +261,14 @@ During character creation, you may be required by certain professions to have ce
 
 - **Talents**: Choose one whose pre-requisites you meet.
 - **Age**: Roll 2d and choose one or both to add to your age, representing your time before finding a crew.
-- **Traits and Desires**: Choose two that match your character and one that doesn't at all.
+- **Traits**: Choose three that match your character and two that don't at all.
 - **Features**: Detail three distinctive outward features of your character.
 - **Bonds**: Write or roll one for each PC.
 - **Beliefs**: Write at least one and up to three.
+
+### Accepting Magic
+
+If your character has **accepted that magic is real**, pick a turning point to represent this moment, then describe how it happened and how it led you to your new life.
 
 ## Archetypes
 
@@ -288,7 +306,7 @@ Your core capabilities rated from 1/_poor_ to 4/_excellent_, used for action and
 
 ## Bonds
 
-Your dynamic with other characters. Match an intensity and a nature below, or write your own. Interpret as makes sense.
+Your dynamic with other characters, PC or NPC. Match an intensity and a nature below, or write your own. Interpret as makes sense.
 
 | Intensity | Nature      |
 | --------- | ----------- |
@@ -299,7 +317,7 @@ Your dynamic with other characters. Match an intensity and a nature below, or wr
 | Playful   | Respect     |
 | Tense     | Rivalry     |
 
-Bonds are your strongest view of the other character, and not necessarily reciprocal. You can change a bond anytime, such as in response to something they've done or something new you've learned about them. When it changes, give a short vignette. **_The other PC takes fate_**.
+Bonds are your strongest view of other PCs, and not necessarily reciprocal. You can change a bond anytime, such as in response to something they've done or something new you've learned about them. When it changes, give a short vignette. **_The other PC takes fate_**.
 
 Bonds can also be made with NPCs. **When you form a bond with an NPC, _take fate_**. Relationships with NPCs don't need an intensity or nature - simply note the type of relationship you have, as well as their name. For example, you may have a debt to a loan shark.
 
@@ -315,27 +333,23 @@ A collection of loose money, credit and favors, ultimately an abstraction of you
 
 ### Lifestyle
 
-If you are unsure of your character's purchasing power, rely on their **lifestyle stat**. It abstracts the sum total of your character's assets and investments - a home, expensive equipment.
+If you are unsure of your character's purchasing power, rely on their **lifestyle stat**. It abstracts the sum total of your character's assets and investments. To increase it, spend your resources on **lifestyle upgrades**, such as a home, expensive equipment.
 
-To increase it, add resources to your **stash** at a one to one ratio. You can retrieve resources from your stash at a 1 to 2 ratio - you get one resource per two stash. Your life style increases according to the following table:
-
-| Resources Invested | Lifestyle | Social Status                              |
-| ------------------ | --------- | ------------------------------------------ |
-| 0-10               | 0         | Destitute, homeless, corporate slaves      |
-| 11-20              | 1         | Part-time workers, small-time gangoons     |
-| 21-40              | 2         | Small business owners, blue collar workers |
-| 41-80              | 3         | White collar workers, cops                 |
-| 81-160             | 4         | Corporate chieftains, big-time gangoons    |
-| 161-320            | 5         | Nouveau riche, mobsters                    |
-| 321+               | 6+        | **Not you.**                               |
+| Lifestyle | Affordable Stuff                         |
+| --------- | ---------------------------------------- |
+| 0         | A shot of shitty liquor. Food for a day. |
+| 1         | Rent in a shanty town. Minor amenities.  |
+| 2         | Out-of-date smartphone. Home repairs.    |
+| 3         | Trips. A weapon.                         |
+| 4+        | A small business. Bad investments.       |
 
 ## Experience
 
+You start at level 1 and advance when you **fill XP boxes** equal to the next level _(Lvl. 4 to Lvl. 5 means 5 more boxes)_. This lets you choose a **_new talent_**. Whenever you take XP, slash its box before filling it.
+
 ### Post-Session XP
 
-After each session, **_take 1 XP_** and fill in its box. You start at level 1 and advance when you fill boxes equal to the next level _(Lvl. 4 to Lvl. 5 means 5 more boxes)_. This lets you choose a **_new talent_**.
-
-**_The GM can award 1 bonus XP for a standout session_** _(about 1 in 4)_. For a slower pace, slash each XP box before filling it (also applies to crew XP).
+After each session, **_take 1 XP_**. **_The GM can award 1 bonus XP for a standout session_** _(about 1 in 4)_.
 
 ### Vote XP
 
@@ -345,13 +359,13 @@ During **downtime**, players can vote on characters to earn bonus XP. To earn th
 
 ## Tools Of The Trade
 
-You're assumed to have the gear and skills that are a given for your vantage - primarily determined by your **professions**.
+You're assumed to have the gear and skills that are a given for your vantage - primarily determined by your **professions**. Each profession's characteristic equipment is abstracted into a **kit**.
 
 ## Loadout
 
-Loadout is a means of changing your vantage by way of specific equipment. Characters have six **loadout slots**, two of which are occupied by each of your profession's **tools of the trade**. Each equipment slot is used for items significant enough to change your vantage - Think of heavy weaponry, unusual gear, anything that might give you an advantage (or disadvantage) for any reason.
+Your **loadout** is a means of changing your vantage by way of specific equipment. Characters have four **loadout slots** used for items significant enough to change your vantage - Think of heavy weaponry, unusual gear, anything that might give you an advantage (or disadvantage) for any reason.
 
-Items that don't affect your vantage do not need to be tracked this way - just take note of them in your character sheet.
+Your professions' kits and items that don't affect your vantage do not need to be tracked this way - just take note of them in your character sheet or elsewhere, if you're not already assumed to have them (like your tools of the trade).
 
 ## A Matter Of Style
 
@@ -359,7 +373,7 @@ Your character's equipment and what they carry is a big part of how they are see
 
 ## Stash
 
-Your character's stash is where they store their _stuff_. Generally a safe hiding place, or at home. Aside from **invested resources**, your stash stores any equipment you may have.
+Your character's stash is where they store their _stuff_. Generally a safe hiding place, or at home. Your stash stores any equipment you may have. It has a characteristic look and may be hidden.
 
 # Cyberware
 
@@ -383,7 +397,7 @@ Once the motherboard interface is installed, most of its components can be chang
 
 ## Bodily Impact
 
-These monikers do not refer to mass, but rather how impactful each is on the body's natural systems. As a short-hand, all neuralinked cyberware, including the interface, is heavy cyberware, and mechanical parts are light.
+This moniker does not refer to mass, but rather how impactful each is on the body's natural systems. As a short-hand, all neuralinked cyberware, including the interface, is heavy cyberware, and mechanical parts are light.
 
 ### Neurodrugs
 
@@ -397,16 +411,16 @@ If any cyberware ends up using slots that are no longer available (usually due t
 
 After a small period of excess usage of cyberware, the user enters the first stage of the crash out, with intense headaches, anxiety, dilated pupils and other symptoms of withdrawal.
 
-24h after the beginning of the first stage, one of six things may happen:
+24h after the first stage, the user enters the second stage, where one of six things may happen:
 
 - The user goes **catatonic**, entering a vegetative-like stupor.
 - The user goes **psycho**, losing control of the self for sporadic periods.
 - The user **gets fried** in intense pain, permanently damaging cyberware.
 - The user experiences **gradual organ failure**, leading to death.
 - The user **slowly develops an incurable neurodegenerative disease**.
-- The crash **recedes**, with seemingly increased cyberware capacity.
+- The crash **recedes**.
 
-An ongoing crash can be stopped with intense care, re-introduction of neurodrugs and rehab if necessary.
+An ongoing crash can be stopped with intense care, re-introduction of neurodrugs and rehab if necessary. If you manage to survive a crash-out, you gain a bonus cyberware slot, as well as a new **scar**.
 
 # Damage
 
@@ -542,11 +556,9 @@ Sometimes, however, you can’t afford all that time. These are times of **crisi
 
 ### Entanglements
 
-The GM then makes a _tension roll_, where each dropped dice **prompts an impact move from the entanglements table**. Each entanglement describes a thing that happens to the crew – some thugs annoy you, the cops come to interrogate you or other mistakes come running back. The GM may also spend tension to choose a move from the table and prompt it immediately.
+The GM makes a _tension roll_, where each dropped dice **prompts an impact move from the entanglements table**. Each entanglement describes a thing that happens to the crew – some thugs annoy you, the cops come to interrogate you or other mistakes come running back. The GM may also spend tension to choose a move from the table and prompt it immediately.
 
-The GM may bring any one these moves into play immediately, hold them off until appropriate or make them as **faction moves** (so long as they're made against the players). In any case, if the prompted moves are not dealt with by the end of downtime, then the GM banks them as tension.
-
-Once prompted by the table, these moves cannot be skipped. The GM decides whether or not to cross them out from the table once resolved - some events only make sense as a one-time occurence, while cops being annoying is an all-the-time worry.
+The GM may bring any one these moves into play immediately, hold them off until appropriate, or make them as **faction moves** (so long as they're made against the players). The GM decides whether or not to cross them out from the table once resolved - some events only make sense as a one-time occurence, while cops being annoying is an all-the-time worry.
 
 #### Editing The Table
 
@@ -559,13 +571,13 @@ Don't attempt to add an entire scene as an entry - keep it punchy. List the move
 
 ## Downtime Activities
 
-As soon as downtime starts, clear all marks and burned fate slots, roll all healing pools and reset per-session talents and special abilities. Then, each player goes about as many activities as available to them.
+As soon as downtime starts, clear all marks and burned fate slots, roll all healing pools and reset per-session talents and special abilities. Then, each player goes about as many activities as available to them. Usually, two activities per character.
 
-- **Recover**: Go to a doctor, hospital, or otherwise unwind. Roll any relevant healing or condition pool once, then spend one resource per dice dropped.
+- **Recover**: Go to a doctor, hospital, or otherwise unwind. Roll as many relevant healing pools or condition pools as you want, then spend one resource per dice dropped.
 - **Acquisition**: Peruse and purchase _improvements_ or _equipment_ not covered by your lifestyle rating.
-- **Commune**: Shared time with the crew. Spend crew xp for special abilities, run _character votes_ for bonus XP and updating your character traits and bonds.
+- **Commune**: Shared time with the crew. Spend crew xp for special abilities; Run _character votes_ for bonus XP and updating your characters.
 - **Work**: The GM sets a diminishing pool according to the size of the work, as well as determining what happens when cleared. Roll it when working.
-- **Circles**: The GM makes tension roll to create an NPC according to the player's needs and vantage.
+- **Circles**: The GM rolls to create an NPC according to the player's needs and vantage.
 
 # Odds & Ends
 
@@ -591,13 +603,9 @@ Conflicts between PCs — arguments, competitions, or even violence. Quickly res
 
 The winner narrates how they won. Then, the loser narrates how they handle losing. The results of the quarrel are **final** — it's okay for the PC that lost to be bitter, but the story moves in the winner's direction. **_Both sides take fate._**
 
-## Push Yourself
-
-Expend extra effort to activate certain talents that require it. After using the talent, **_mark a related stat_** (_your choice_) or **_burn a fate slot_**.
-
 ## Interrupt
 
-Make an action roll to try to stop an impact move. This requires a specific talent. If not already involved, you now share the risk. On a messy, the GM takes or keeps suspense.
+Make an action roll to try to stop an impact move. This requires a specific talent. If not already involved, you now share the risk. On a messy, the GM builds tension.
 
 ## Always
 
@@ -624,7 +632,7 @@ The scope of what magic can achieve is limited by what "traditional" magic can a
 
 ## Spells
 
-All spells are an action roll. This roll starts with _4t_ (can be more due to external factors, for a max of _7t_). The difficulty of the roll can be reduced once for each source of advantage.
+All spells are an action roll. This roll starts with _4t_. The difficulty of the roll can be reduced once for each source of advantage.
 
 ## Rituals
 
@@ -634,7 +642,7 @@ The difficulty for each action roll in a ritual is determined as with spells, bu
 
 ## Consequences
 
-Some spells and rituals specifically outline what happens on a messy andor grim, but this is not always true. Most magical undertakings fall under certain categories, each of which has tiered levels of generic consequences, from level 1 to level 4. These are to be used as such, if no other consequences were previously specified:
+Some spells and rituals specifically outline what happens on a messy and/or grim, but this is not always true. Most magical undertakings fall under certain categories, each of which has tiered levels of generic consequences, from level 1 to level 4. These are to be used as such, if no other consequences were previously specified:
 
 For both spells and rituals, what happens on a **grim** result is the **worst possible consequence**. For **messy** results, _make a tension roll_, and the severity of the consequences shall be proportional to the dropped dice, following the "shapes" outlined by the category of magic at hand.
 
@@ -642,9 +650,9 @@ The GM can _spend tension_ to make the severity and type of consequence of any m
 
 ## Improvisation
 
-Characters can explicitly follow the instructions for a spell or ritual in the fiction as a **rote spell**. _When following a rote_, you (try to) do as the spell tells you, thus counting as proper guidance (_-1t_).
+Characters can explicitly follow the instructions for a spell or ritual in the fiction as a **rote spell**. _When following a rote_, you (try to) do as the spell tells you, thus counting as proper guidance (_-1t_). It's of note that a rote spell must be a previously existing or created one
 
-_When_ **_improvising_**, you abstract away the details of the existance, remembrance and execution of the spell, and thus, no bonus can be gained from proper guidance. The feasibility of improvistion is determined by vantage, and it has no bearing on the difficulty of the spell.
+_When_ **_improvising_**, you abstract away the details of the _existance_, _remembrance_ and _execution_ of the spell, and thus, no bonus can be gained from proper guidance. The feasibility of improvistion is determined by vantage, and it has no bearing on the difficulty of the spell.
 
 Players may take note of any spells/rituals and commit them to their character sheets as something their character _knows and remembers_ or into a _grimoire_ of sorts. In such cases, you can always cast this spell as a rote, so long as the fiction allows (don't lose the grimoire, not blackout drunk, etc).
 

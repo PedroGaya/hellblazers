@@ -11,7 +11,11 @@ A trigger for you to make an impact move, caused by things like grim or messy ac
 
 ## Tension
 
-When PCs ride the synchronicity freeway, they don't do so at no cost - **_Twisting reality builds tension_**. While players require _fate_, as GM, you are empowered to do so as you please with **tension moves**. In any case, you **generate tension** when reality is manipulated in these ways, and you can spend tension at any time to _prompt an impact move._ When making moves, always remember to...
+When PCs ride the synchronicity freeway, they don't do so at no cost - **_Twisting reality builds tension_**. While players require _fate_, as GM, you are empowered to do so as you please with **tension moves**. In any case, you **generate tension** when reality is manipulated, and you can spend tension at any time to _prompt an impact move._
+
+---
+
+When making moves, always remember to...
 
 ## Keep The Story Moving
 
@@ -99,7 +103,7 @@ _Break_ a scene when players are stuck, backed into a corner, or a scene feels d
 
 ## Bargain
 
-**Propose an interesting bargain to a PC. Take tension only if they accept.**
+**Propose an interesting bargain to a PC. Build tension only if they accept.**
 
 _Bargain_ with a player by proposing a juicy twist for their PC. Push **_dilemmas_** and **_drama_** towards their character details. The players pick them because they want the choices that come with! When you have a great idea, propose a bargain for a PC. Remember you only gain tension if they accept, so it's up to you to make the offer irresistible. Don't push hard — this mechanic is built to respect player agency. Don't punish for saying no.
 
@@ -225,25 +229,29 @@ Keep 4-6 active factions, balancing major and minor ones, with competing goals. 
 
 Once per session, but between sessions, the GM resolves a **faction turn**. Each faction at play gets to make as many faction moves as its tier, simultaneously.
 
-## Faction Moves
+### Faction Moves
 
-### Make A Play
+#### Make A Play
 
 To make a play, for any given faction, roll **any faction pool at play**, so long as it's not a secret one - Factions can not only advance their goals, but support other factions in theirs as well. Instead of rolling, the faction may also use this move to set as many goals as they want.
 
 When a faction pool depletes, the goal is either accomplished or they make their move against another faction, with a montage roll in their favor determining how it plays out. Goals can be anything from stealing/destroying an asset or setting up further action by dropping dice from other pools.
 
-### Acquire An Asset
+#### Acquire An Asset
 
 Spend **faction resources** to gain new assets, expanding the faction's vantage or providing special abilities. Alternatively, they may spend (10 \* 2^New Tier) resources to consolidate power and increase in tier.
 
-### Defend Or Delay
+#### Defend Or Delay
 
 Add a die to **any other faction pool at play**, delaying it.
 
-### Collect
+#### Collect
 
 The faction gains as many resources as its tier, plus one.
+
+### On The News
+
+Once you're done with a faction turn, pick three "key moves" that happened and showcase them in the news for your players. Through investigation, they may discover everything else that happened.
 
 ## Campaign Pools
 
@@ -301,11 +309,11 @@ Make the location an important, proactive part of the scene. Identify environmen
 - **Patrols**
   - Weak groups on fixed routes whose goal is to warn others of trouble.
 - **Scouts**
-  - Roaming groups that seek trouble. Aim to disrupt and flee.
+  - Roaming groups that seek trouble. They aim to find, disrupt and flee.
 - **Guards**
   - Stationed in key positions. Can warn others or deal with problems themselves.
 - **Reserves**
-  - Stationed in barracks or similar, await trouble to act. Often occupied.
+  - Stationed in barracks or similar, awaiting trouble. Often pre-occupied.
 - **Specialists**
   - Strong groups optimized for a singular goal.
 
