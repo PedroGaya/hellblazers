@@ -2,7 +2,7 @@
 
 Characters are not born out of thin air in the middle of nowhere. They have a birthplace, an upbringing and different walks of life - **life paths**.
 
-Each life path includes six professions, granting unique stats and wises. Turning points tell you how you left the first path for the second, then finally how you left the second and found your crew.
+Each path includes six professions, granting unique stats and wises. Turning points tell you how you left the first path for the second, then finally how you left the second and found your crew.
 
 ## Upbringing
 
@@ -20,7 +20,7 @@ Each life path includes six professions, granting unique stats and wises. Turnin
 - **Lifestyle**: Modify it by the indicated amount.
 - **Stats**: Increase indicated stats by one.
 - **Wises**: Note down your three wises, or create your own.
-- **Equipment and Cyberware**: Spend your resources to buy what you want _and_ what is required of you.
+- **Equipment and Cyberware**: Spend your resources to buy what you want _and_ what is **required** of you.
 - **Age**: Roll 2d, choose 2 to add to age.
 - **Turning Point**: Roll 2d, pick one.
 

@@ -6,7 +6,7 @@ Lesser damage, a temporary hindrance to a stat. **_Take +1t on the next roll wit
 
 If a stat is already marked, mark its paired stat instead. If both are already marked, take the related **harm**. Note that a mark can be taken even if you have the related harm.
 
-Marks are often combined with another mark or other consequences when inflicted directly. You also take a mark when you **push yourself**.
+Marks are often combined with another mark or other consequences when inflicted directly. You may also take a mark when you **push yourself**.
 
 ## Harm
 

@@ -1,6 +1,6 @@
 # Getting Started
 
-**_Hellblazers_** is a cyber-fantasy RPG where outcasts take hold of their fates and ride the _synchronicity freeway_ in the only city that matters; Known in its gutters, streets and hearts of its demons as _The Hand_. What lies at the end of your path is anybody's guess – I wouldn't presume to tell you. Dare to step into these neon-covered alleys and you will, undoubtedly, find joy in exploring the fruitful void that waits beyond every turn.
+**Hellblazers** is a cyber-fantasy RPG where outcasts take hold of their fates and ride the _synchronicity freeway_ in the only city that matters; Known in its gutters, streets and hearts of its demons as _The Hand_. What lies at the end of your path is anybody's guess – I wouldn't presume to tell you. Dare to step into these neon-covered alleys and you will, undoubtedly, find joy in exploring the fruitful void that waits beyond every turn.
 
 ## The Cyber And The Fantasy
 

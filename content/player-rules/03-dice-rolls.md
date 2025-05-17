@@ -2,7 +2,7 @@
 
 ## Action Roll
 
-Roll to pull off something risky. State **how & why**, calrifying your intent. The GM picks the stat that matches your intentions.
+Roll to pull off something risky. State **how & why**, clarifying your intent. The GM picks the stat that matches your intentions.
 
 - **Perfect**: You do it, and avoid trouble.
 - **Messy**: You do it, but there's trouble. _Prompts an impact move_.
@@ -27,3 +27,7 @@ The GM calls for defense rolls when they target you directly with an impact move
 Roll to condense a sequence you don't want to play out in detail, but still want to leave it up to the dice. **_Roll 2d_**, resolving it all as a single action roll, then narrate a few beats. Keep things moving or zoom in on a grim.
 
 If multiple PCs join, **_each rolls 2d and shares the risk_**. Collaborate on the results. 6s on separate rolls don't count towards criticals.
+
+## Tension Roll
+
+The GM rolls the tension pool to delegate a decision to pure luck, using the amount of dropped dice to guide the fiction (can be both). In general, results are unfavorable to the players, proportional to how many dice were dropped.

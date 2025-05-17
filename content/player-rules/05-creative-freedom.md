@@ -30,16 +30,16 @@ When adding details, avoid overriding rolls or contradicting the established fic
 
 Character-driven "tangles" you add to a scene and have to follow-up on. They must stem from your character details and always have an immediate impact, like an action roll, an option closing off, or forcing inaction at an important moment. These are things like:
 
-- **_Unwise decisions_** your PC would likely make.
+- **_Unforeseen consequences_** of your actions.
 - **_Personal motivations_** over group goals.
 - **_Trouble_** from beliefs or backstory.
 
-In short, your character's attitude and history introduce previously unseen difficulties. **Whenever you introduce a complication, drop a tension die and take it as fate**.
+In short, your character's actions, attitude and history introduce previously unseen difficulties. **Whenever you introduce a complication, drop a tension die and take it as fate**.
 
 ### Coincidences
 
 Facts added to a scene that significantly change the situation in any way. Like with complications, these must be tied to your character details and/or immediately shift your vantage. **To introduce a coincidence, spend fate and add it to the tension pool**. These are things like:
 
-- **_Character_**: Gear, contacts, backstory...
-- **_Scene_**: NPC actions, objects, atmospherics...
-- **_Setting_**: History, geography, factions...
+- **_Character details_**: Gear, contacts, backstory...
+- **_Scene details_**: NPC actions, objects, atmospherics...
+- **_Setting details_**: History, geography, factions...

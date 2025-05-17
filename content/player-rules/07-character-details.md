@@ -6,7 +6,7 @@ Your upbringing and life paths - the core of your vantage. Each path gives you t
 
 ## Traits
 
-Use your background to choose 3 that strongly define you and 2 that definitely don't. Why are you like this?
+Use your background to choose 3 that strongly define you and 2 that definitely don't.
 
 ## Features
 
@@ -43,7 +43,7 @@ Your dynamic with other characters. Match an intensity and a nature below, or wr
 
 Bonds are your strongest view of the other character, and not necessarily reciprocal. You can change a bond anytime, such as in response to something they've done or something new you've learned about them. When it changes, give a short vignette. **_The other PC takes fate_**.
 
-Bonds can also be made with NPCs. **When you form a bond with an NPC, _take fate_**. Relationships with NPCs don't need an intensity or nature - simply note the type of relationship you have, as well as their name. For example, you may have a debt to a loan shark.
+Bonds can also be made with NPCs. **When you form a bond with an NPC, _take fate_**. Relationships with NPCs don't need an intensity or nature - you may simply note the type of relationship you have, as well as their name. For example, you may have a debt-holder bond to a loan shark.
 
 ## Beliefs
 
@@ -57,19 +57,7 @@ A collection of loose money, credit and favors, ultimately an abstraction of you
 
 ### Lifestyle
 
-If you are unsure of your character's purchasing power, rely on their **lifestyle stat**. It abstracts the sum total of your character's assets and investments - a home, expensive equipment.
-
-To increase it, add resources to your **stash** at a one to one ratio. You can retrieve resources from your stash at a 1 to 2 ratio - you get one resource per two stash. Your life style increases according to the following table:
-
-| Resources Invested | Lifestyle | Social Status                              |
-| ------------------ | --------- | ------------------------------------------ |
-| 0-10               | 0         | Destitute, homeless, corporate slaves      |
-| 11-20              | 1         | Part-time workers, small-time gangoons     |
-| 21-40              | 2         | Small business owners, blue collar workers |
-| 41-80              | 3         | White collar workers, cops                 |
-| 81-160             | 4         | Corporate chieftains, big-time gangoons    |
-| 161-320            | 5         | Nouveau riche, mobsters                    |
-| 321+               | 6+        | **Not you.**                               |
+If you are unsure of your character's purchasing power, rely on their **lifestyle stat**. It abstracts the sum total of your character's investments or other signifiers of income. To increase it, spend your resources in **assets**, such as expensive equipment or a home - each increases your lifestyle rating by one.
 
 ## Experience
 
