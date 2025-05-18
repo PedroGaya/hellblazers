@@ -8,7 +8,7 @@ Every rule before has been about the characters and the action; How do we do thi
 
 ## Downtime
 
-While players work on **downtime activities** spread over **cycles**, the GM deals with **fallout**. When everyone is done with their downtime activities, or if otherwise prompted, free play begins once again.
+While players work on **downtime activities** spread over **cycles**, the GM deals with the entanglements table and factions. When everyone is done with their downtime activities, or if otherwise prompted, free play begins once again.
 
 A downtime cycle refers to the minimum amount of leisure time available for PCs to engage with activities. Activities take an amount of time measured in cycles, **not actual time**. The length of time available in a cycle should be settled on by the group. By default, a handful of days, so that there are two cycles in a week. In play, the standard downtime phase amounts to **two cycles**.
 
@@ -16,17 +16,15 @@ A downtime cycle refers to the minimum amount of leisure time available for PCs 
 
 Sometimes, however, you can’t afford all that time. These are times of **crisis**, during which the amount of available cycles is halved. Crisis can be entered as an extreme consequence or when at war with a faction (-3 rep).
 
-## Fallout
+## Entanglements
 
-### Entanglements
-
-The GM then makes a _tension roll_, where each dropped dice **prompts an impact move from the entanglements table**. Each entanglement describes a thing that happens to the crew – some thugs annoy you, the cops come to interrogate you or other mistakes come running back. The GM may also spend tension to choose a move from the table and prompt it immediately.
+The GM makes a _tension roll_, where each dropped dice **prompts an impact move from the entanglements table**. Each entanglement describes a thing that happens to the crew – some thugs annoy you, the cops come to interrogate you or other mistakes come running back. The GM may also spend tension to choose a move from the table and prompt it immediately.
 
 The GM may bring any one these moves into play immediately, hold them off until appropriate or make them as **faction moves** (so long as they're made against the players). In any case, if the prompted moves are not dealt with by the end of downtime, then the GM banks them as tension.
 
 Once prompted by the table, these moves cannot be skipped. The GM decides whether or not to cross them out from the table once resolved - some events only make sense as a one-time occurence, while cops being annoying is an all-the-time worry.
 
-#### Editing The Table
+### Editing The Table
 
 Every table starts with a predetermined set of events by the crew type, and there are two ways of editing it:
 
@@ -39,8 +37,8 @@ Don't attempt to add an entire scene as an entry - keep it punchy. List the move
 
 As soon as downtime starts, clear all marks and burned fate slots, roll all healing pools and reset per-session talents and special abilities. Then, each player goes about as many activities as available to them.
 
-- **Recover**: Go to a doctor, hospital, or otherwise unwind. Roll any relevant healing or condition pool once, then spend one resource per dice dropped.
+- **Recover**: Go to a doctor, hospital, or otherwise unwind. Recover dice to physical resistance equal to your lifestyle (minimum of one).
 - **Acquisition**: Peruse and purchase _improvements_ or _equipment_ not covered by your lifestyle rating.
-- **Commune**: Shared time with the crew. Spend crew xp for special abilities, run _character votes_ for bonus XP and updating your character traits and bonds.
+- **Commune**: Shared time with the crew. Spend crew xp and run _character votes_. Recover all mental resistance.
 - **Work**: The GM sets a diminishing pool according to the size of the work, as well as determining what happens when cleared. Roll it when working.
 - **Circles**: The GM makes tension roll to create an NPC according to the player's needs and vantage.

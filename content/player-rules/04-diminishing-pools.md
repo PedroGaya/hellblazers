@@ -6,7 +6,7 @@ A set of d6s used to track things like time, resources or effort. When triggered
 
 The size of a pool is **4d**/_short_, **6d**/_mid_, or **8d**/_long_. At **0d**, an event occurs, a situation ends or a resource is depleted. Make sure to reflect the fiction - if a pool and the fiction don't match up, adjust or scrap the pool.
 
-- If not dice are dropped from a task pool on a messy or perfect action roll, instead take a **secondary effect**. If the roll was only 1d, you can instead **push yourself** to drop the last die.
+- If not dice are dropped from a task pool on a messy or perfect action roll, instead take a **secondary effect**.
 
 - **Drop** 1d from the pool before rolling it when a talent tells you to do so, you have potency or you take the _greater effect_ critical bonus. This stacks.
 

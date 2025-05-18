@@ -19,8 +19,6 @@ If needed, the GM can assess difficulty factors to determine how many thorns to 
 - **External**: Environment, training, tools...
 - **Intangible**: Strong feelings, bad information, a curse...
 
-**Damage** to a PC also adds thorns to a roll, but they don't count towards making it _impossible_.
-
 ### Smooth Flow
 
 If a grim threatens to grind the story to a halt, the GM can **keep things moving** - you get what you want, but in a way that makes things much worse. If a roll somehow turns out to have no effect, you learn new info or setup for a follow up.

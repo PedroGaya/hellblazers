@@ -28,6 +28,10 @@ Your core capabilities rated from 1/_poor_ to 4/_excellent_, used for action and
 - Brawn and Agility are paired **physical stats**.
 - Wits and Presence are paired **mental stats**.
 
+## Resistances
+
+A character's health is abstracted into two different resource pools, one for **physical resistance** and one for **mental resistance**. Their size is each equal to the sum of their corresponding paired stats.
+
 ## Bonds
 
 Your dynamic with other characters. Match an intensity and a nature below, or write your own. Interpret as makes sense.
