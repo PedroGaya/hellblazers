@@ -24,7 +24,7 @@ _Force A Choice_ to present stark, binary decisions that they can't wiggle their
 
 ## Hit 'Em Hard
 
-**Inflict damage on a PC, like bloodied, rattled, vex, marks, or a condition.**
+**Inflict damage on a PC.**
 
 _Hit 'Em Hard_ when you need to inflict direct consequences. Whether it’s damage, betrayal, or loss, this move underscores the seriousness of the situation. It's a heavy reminder that the world pushes back against their actions. When you use it, you should be hitting them just as hard as they're trying to hit the world.
 
