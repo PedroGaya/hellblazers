@@ -57,7 +57,15 @@ A collection of loose money, credit and favors, ultimately an abstraction of you
 
 ### Lifestyle
 
-If you are unsure of your character's purchasing power, rely on their **lifestyle stat**. It abstracts the sum total of your character's investments or other signifiers of income. To increase it, spend your resources in **assets**, such as expensive equipment or a home - each increases your lifestyle rating by one.
+If you are unsure of your character's purchasing power, rely on their **lifestyle stat**. It abstracts the sum total of your character's investments or other signifiers of income. To increase it, spend your resources in **assets**, such as expensive equipment or a home. Each increases your lifestyle rating by one.
+
+| Lifestyle | Affordable Stuff                            |
+| --------- | ------------------------------------------- |
+| 0         | A shot of shitty liquor. Food for a day.    |
+| 1         | Rent in a shanty town. Minor amenities.     |
+| 2         | Out-of-date smartphone. Home repairs.       |
+| 3         | Short trips. Black market firearms.         |
+| 4+        | Rent in the good side of town. Investments. |
 
 ## Experience
 
