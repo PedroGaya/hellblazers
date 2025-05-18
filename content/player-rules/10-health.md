@@ -17,13 +17,13 @@ Depleting a pool leaves you **dropped** - out of the scene. The GM will then tel
 - Taking a **condition**;
 - Getting a **scar**;
 
-## Vex
+### Vex
 
 An intense flash of emotion like _anger, fear, or confusion_. Vex prompts an immediate, instinctive response. Choose one from **fight, flight, freeze** or **freakout**.
 
 Interpret the response. Your PC is _driven by emotion_, but you decide how it plays out. Aim to balance what's fun, what fits the story and the struggle/_difficulty_ of being vexed. After the response, which always takes a beat or two, clear the vex.
 
-## Conditions
+### Conditions
 
 Specific injuries or maladies that impact only relevant situations and are often lasting. Can be:
 
@@ -36,7 +36,7 @@ Specific injuries or maladies that impact only relevant situations and are often
 
 Conditions clear when it makes sense, life after a scene, with rest, or when a pool tracking them depletes. They may also require treatment or another specific method to clear them.
 
-## Scars
+### Scars
 
 Whenever we survive an otherwise lethal or traumatic situation, we change - for good or bad. Change a character detail and mark it as a scar. You can:
 
@@ -47,10 +47,12 @@ Whenever we survive an otherwise lethal or traumatic situation, we change - for 
 
 If appropriate, you may also break or destroy **equipment** and **cyberware**.
 
-## Long-Term
+## Long-Term Afflictions
 
-Players have final say on any long-term conditions and scars. In these cases, work with the GM to find a good fit your your PC and the situation. This includes **character death**.
+**_Players have final say on any long-term conditions and scars._** In these cases, work with the GM to find a good fit your your PC and the situation. This includes **character death**.
 
 ## Death
 
 Death does not come unwarranted - it must be clearly understood as a possibility from the get go. When the time is right, and your character is supposed to die, the GM makes a tension roll. **If any dice are dropped, your character is dead**. Make a new one during the next instance of downtime.
+
+As an optional rule, make the tension roll only when somebody actually checks your body (if any).

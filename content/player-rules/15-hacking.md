@@ -13,7 +13,7 @@ Each advantage applies only once, per category (no double dipping).
 
 ## Operations
 
-Sometimes, hacking a system is an on-going effort (like in heist movies). Start a diminishing pool of any size and drop one dice per advantage, then make action rolls to roll the pool until it is cleared and the op is complete.
+Sometimes, hacking a system is an on-going effort (like in heist movies). Start a diminishing pool of any size and drop one dice per advantage, then make action rolls to trigger the pool until it is cleared and the op is done.
 
 The difficulty for each action roll in an operation is determined as with regular hacks, but the worst result in any such roll "sticks" as the overall result for the operation.
 
@@ -36,7 +36,7 @@ However, more often than not, hackers make inocuous mistakes that allow them to 
 
 **Black ICE** employs more destructive countermeasures by counter-hacking the terminal itself - bricking it, inducing overheating, stealing data or, in the case of **biodigital terminal cyberware**, attacking the hacker directly by frying their interface.
 
-## Tools of the Trade
+## Hacking Tools
 
 **Daemons** are specialized AI programs used by hackers and sysadmins alike to automate onerous tasks, such as scanning an entire network. When used as part of security, they're a part of ICE protocols. When used by hackers, they're attack programs purpose built to exploit certain vulnerabilities and systems.
 

@@ -18,7 +18,7 @@ Ranging from -3 to +3, with escalating benefits and consequences. At -3, you're 
 
 ## Entanglements Table
 
-Some consequences are only felt later. They are registered in your crews **d20 entanglements table**, representing all manner of things that can happen to you during downtime. Managed in secret by the GM.
+Some consequences are only felt later. They are registered in your crews **entanglements table**, representing all manner of things that can happen to you during downtime. Managed in secret by the GM.
 
 ## Special Abilities
 
