@@ -17,6 +17,8 @@ Depleting a pool leaves you **dropped** - out of the scene. The GM will then tel
 - Taking a **condition**;
 - Getting a **scar**;
 
+If you only have one die left in the pool when you take any damage, drop it instead of rolling the pool.
+
 ### Vex
 
 An intense flash of emotion like _anger, fear, or confusion_. Vex prompts an immediate, instinctive response. Choose one from **fight, flight, freeze** or **freakout**.
