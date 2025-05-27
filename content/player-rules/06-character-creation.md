@@ -34,7 +34,7 @@ During character creation, you may be required by certain professions to have ce
 
 - **Talents**: Choose one whose pre-requisites you meet.
 - **Age**: Roll 2d and choose one or both to add to your age, representing your time before finding a crew.
-- **Traits and Desires**: Choose two that match your character and one that doesn't at all.
+- **Traits**: Choose three that match your character and two that don't at all.
 - **Features**: Detail three distinctive outward features of your character.
 - **Bonds**: Write or roll one for each PC.
 - **Beliefs**: Write at least one and up to three.
