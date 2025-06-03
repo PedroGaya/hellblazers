@@ -85,6 +85,49 @@ A set of d6s used to track things like time, resources or effort. When **trigger
 
 If no dice are dropped from a task pool on a messy or perfect action roll, instead take a **secondary effect** - You can also always drop the last die in a task pool.
 
+# Creative Freedom
+
+## Vantage
+
+Your character's frame of reference, the sum of their backstory, talents, and the current fiction - everything on your sheet and what's affecting you in the story. When a question arises about what you can do, have, or know, check it against your vantage: does it feel like a **_given_**, a **_stretch_** or a **_reach_**?. **Proper vantage** opens up possibilities and gives the freedom to declare story details. Lacking it makes things fore difficult, or even impossible.
+
+### Advantage and Disadvantage
+
+Your vantage can expand or diminish along the scale. These shifts are called **_advantages_** and **_disadvantages_**, respectively.
+
+- Guaranteed - Given - Stretch - Reach - Impossible
+- Always - Should - Could - Scarcely - Never
+
+## Set Dressing
+
+Add minor, common sense details freely. Make assumptions and add _set dressing_ to scenes to play off of to keep things flowing dynamically. **Anything that's a _given_ for your vantage is set dressing**; Like knowing someone or having equipment that makes sense. Similarly, **any details that do not significantly shift vantage are set dressing**.
+
+There's no need to check in with the GM - they'll step in if a detail goes beyond set dressing.
+
+## Story Twists
+
+If you want introduce story details to the fiction that go beyond set dressing, you want to introduce a **_twist_**:
+
+### Complications
+
+Character-driven **disadvantages** you add to a scene and have to follow-up on. They must stem from your character details and always have an immediate impact, like an action roll, an option closing off, or forcing inaction at an important moment. These are things like:
+
+- **_Unforeseen consequences_** of your actions.
+- **_Personal motivations_** over group goals.
+- **_Trouble_** from beliefs or backstory.
+
+**Whenever you introduce a complication, drop a tension die and take it as fate**.
+
+### Coincidences
+
+Character-driven **advantages** you add to a scene. Like with complications, these must be tied to your character. These are things like:
+
+- **_Character details_**: Gear, contacts, backstory...
+- **_Scene details_**: NPC actions, objects, atmospherics...
+- **_Setting details_**: History, geography, factions...
+
+**To introduce a coincidence, spend fate and add it to the tension pool**.
+
 # Character Creation
 
 Characters start with two life paths - Each includes six professions, granting unique stats and wises. Turning points tell you how you left the first path for the second, then finally how you left the second and found your crew.
@@ -234,44 +277,6 @@ If appropriate, you may also break or destroy **equipment** and **cyberware**.
 ## Death
 
 Death does not come unwarranted - it must be clearly understood as a possibility from the get go. Whenever you're about to take damage, the GM may indicate it as **lethal damage**. If you are dropped by lethal damage, the GM makes a tension roll under a cup - Once someone checks your body, **if _any_ dice are dropped**, your character is dead.
-
-# Creative Freedom
-
-## Vantage
-
-Your character's frame of reference, the sum of their backstory, talents, and the current fiction - everything on your sheet and what's affecting you in the story. When a question arises about what you can do, have, or know, check it against your vantage: does it feel like a **_given_**, a **_stretch_** or a **_reach_**?. **Proper vantage** opens up possibilities and gives the freedom to declare story details. Lacking it makes things fore difficult, or even impossible.
-
-### Advantage and Disadvantage
-
-Your vantage can expand or diminish due to circumstances. These shifts are called **_advantages_** and **_disadvantages_**, respectively.
-
-## Set Dressing
-
-Add minor, common sense details freely. Make assumptions and add _set dressing_ to scenes to play off of to keep things flowing dynamically. There's no need to check in with the GM - they'll step in if a detail goes beyond set dressing. Anything that's a _given_ for your vantage, like knowing someone or having equipment that makes sense, is set dressing.
-
-## Story Twists
-
-If you want introduce story details to the fiction that go beyond set dressing, you want to introduce a **_twist_**.
-
-### Complications
-
-Character-driven "tangles" you add to a scene and have to follow-up on. They must stem from your character details and always have an immediate impact, like an action roll, an option closing off, or forcing inaction at an important moment. These are things like:
-
-- **_Unforeseen consequences_** of your actions.
-- **_Personal motivations_** over group goals.
-- **_Trouble_** from beliefs or backstory.
-
-**Whenever you introduce a complication, drop a tension die and take it as fate**.
-
-### Coincidences
-
-Facts added to a scene that significantly change the situation in any way. Like with complications, these must be tied to your character details and/or immediately shift your vantage. These are things like:
-
-- **_Character details_**: Gear, contacts, backstory...
-- **_Scene details_**: NPC actions, objects, atmospherics...
-- **_Setting details_**: History, geography, factions...
-
-**To introduce a coincidence, spend fate and add it to the tension pool**.
 
 ## Fate
 
