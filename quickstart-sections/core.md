@@ -1,5 +1,3 @@
-# Player Reference Document
-
 # Core Rules
 
 ## Core Mechanic
@@ -68,6 +66,10 @@ Roll to avoid incoming trouble, **_but only when not caused by your own action_*
 - **Perfect**: You avoid the trouble.
 - **Messy**: You avoid the brunt of the trouble. _The GM lightens the consequences_.
 - **Grim**: You fail to avoid trouble. _The GM follows through on the move_.
+
+### Montage Roll
+
+Roll 2d to abstract a scene into a montage. The results determine how well it goes.
 
 ### Tension Roll
 
