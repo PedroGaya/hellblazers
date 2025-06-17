@@ -50,7 +50,7 @@ The GM rolls the tension pool to outsource decisions to luck. Results unfavorabl
 
 ## Diminishing Pools
 
-A set of d6s used to track things like time, resources or effort. When **triggered**, roll the pool and **drop** 1d for each 1-3 result. At 0d, the pool depletes and the fiction changes.
+A set of d6s used to track things like time, resources or effort. When **triggered**, roll the pool and **drop** 1d for each 1-3 result. At 0d, the pool **clears** and the fiction changes.
 
 - **Timer Pool**: Events unfolding in the background. Roll during key moments, when time passes, or a after few PCs take action.
 - **Danger Pool**: Threats becoming more likely. Roll during impact moves, major events or to increase threat level.

@@ -6,7 +6,7 @@ A framework to represent **_tasks_**, **_obstacles_**, **_enemies_**, and scenar
 - **Moves**: Suggested _impact moves_ they might make. These are examples, not limitations.
 - **Fail States**: A trigger that signals the challenge failed, like a competing timer pool or a specific event. It prompts _Lock It In_.
 
-Interpret these short, evocative phrases as fit the situation. Keep your own created challenges similarly brief and flexible. Some uses:
+Interpret these short, evocative phrases as it fits the situation. Keep your own created challenges similarly brief and flexible. Some uses:
 
 - Create a dangerous enemy or exceptionally tough task.
 - Zoom in on pivotal moments.
@@ -17,8 +17,8 @@ Interpret these short, evocative phrases as fit the situation. Keep your own cre
 
 1. **_Assign a task pool_** (4d, 6d, 8d) for its tenacity.
 2. **_Add traits_** (1 or 2) that shape the situation. Skip the obvious _(storm is windy)_ and highlight what matters _(strong winds are blinding)_. Keep them brief and evocative.
-3. **_List short, punchy moves_** (2 or 3) with flexible interpretations. These are examples, not limits. You can spend tension to trigger them, or trigger these when an impact move is prompted by something else.
-4. Define a fail state, a specific trigger that prevents that challenge from being accomplished. Avoid obvious outcomes _(dying in a fight)_ and focus on what creates suspense and drama _(breaking a code of honor)_. Players should know the fail state unless mystery is part of the fun — and even then, make it clear one is in play.
+3. **_List short, punchy moves_** (2 or 3) with flexible interpretations. These are examples, not limits. You can trigger them like any other impact move.
+4. **Define a fail state**, a specific trigger that prevents that challenge from being accomplished. Avoid obvious outcomes _(dying in a fight)_ and focus on what creates suspense and drama _(breaking a code of honor)_. Players should know the fail state unless mystery is part of the fun — and even then, make it clear one is in play.
 
 **Note**: _Not all of these parts are needed for a challenge._
 
