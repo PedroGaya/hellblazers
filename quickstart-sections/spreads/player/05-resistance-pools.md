@@ -15,7 +15,7 @@ Whenever you **recover**, add dice back to the pool equal to the amount recovere
 
 ## Fallout
 
-As the result of an impact move, or whenever you deplete a pool, you may take **fallout**. The GM tells you _how much_ (at least one, up to three), but you choose whatever makes the most sense from:
+As the result of an impact move, or whenever you deplete a pool, you may take **fallout**. The amount of fallout at stake must be clear before any action or defense roll is made. The GM tells you _how much_ (at least one, up to three), but you choose whatever makes the most sense from:
 
 - Getting **vexed**;
 - Taking a **condition**;
@@ -57,3 +57,9 @@ If appropriate, you may also break or destroy **equipment** and **cyberware**.
 ## Death
 
 Death does not come unwarranted - it must be clearly understood as a possibility from the get go. Whenever you're about to take damage, the GM may indicate it as **lethal**: You always take three fallout and, if you are dropped, the GM makes a tension roll under a cup - Once someone checks your body, **if _any_ dice are dropped**, your character is dead.
+
+## Marks
+
+A mark is **light harm** - a bruise, sprain, headache, dizzyness, etc. Often taken as light consequences from _messy rolls_. When suffered, mark the stat most relevant to the harm - You get _+1t_ on your next roll with that stat, then clear the mark.
+
+If you would mark an already marked stat, mark its paired stat instead. If both are already marked, take damage or stress instead.
