@@ -13,14 +13,45 @@ Choose an archetype from:
 Each provides a procedure for setting it up. In general:
 
 - **Traits**: Your shared traits as a crew expand your vantage when _working together_. Choose two that match and one that doesn't.
-- **Goals**: Shared by the group, often represented with a pool. Choose or write two, assign pools if needed.
-- **Assets**: Material goods or useful people that bolster your capabilities. Choose two.
-- **Lair**: Pick a place for your hideout. Be wary of factions already there.
-- **Reputation**: Determine your starting reputations based on improvements and lair.
+- **Goals**: Shared by the group, may be represented with a pool. Choose or write at least one.
+- **Hideout**: Pick a place for your base of operations. Be wary of factions already there.
+- **Upgrades**: Your **assets**, **contacts** or **cohorts** - Anything that bolster your capabilities as a crew. Choose two.
+- **Reputation**: Determine your starting reputations based on assets and hideout.
+- **Resources**: Acquisitional power shared by the crew.
+
+## Assets
+
+Your assets represent **equipment**, **territory claims** or **improvements** to the hideout.
+
+Examples:
+
+| Goods             | Claims     | Improvements       |
+| ----------------- | ---------- | ------------------ |
+| Motorbikes        | Warehouse  | Vault              |
+| Heist Equipment   | Laboratory | Hidden Entrance    |
+| Heavy Armory      | Turf       | Underground Access |
+| High-end Servers  | Shops      | Security System    |
+| Supplies          | Dive Bar   | Medical Bay        |
+| Drugs and Alcohol | Building   | Cover Operation    |
+
+## Contacts and Cohorts
+
+These are the people willing to help the crew. **Contacts** are specific people, usually specialists of some kind. **Cohorts** are your generic helpers or goons, they act as a group on tasks they're capable of.
+
+Examples:
+
+| Contacts      | Cohorts      |
+| ------------- | ------------ |
+| Nurse         | Local Kids   |
+| Cyberdoc      | Punks        |
+| Drug Dealer   | Hired Muscle |
+| Courtesan     | Customers    |
+| Detective     | Scum         |
+| Quartermaster | Corrupt Cops |
 
 ## Reputation
 
-Like with bonds, match standing with nature. Interpret as makes sense.
+The relationships of your crew with the factions and communities around them. Like with bonds, match standing with nature. You're free to write your own natures, but standings always range from "Allies" to "At War".
 
 | Standing | Nature  |
 | -------- | ------- |
@@ -29,9 +60,9 @@ Like with bonds, match standing with nature. Interpret as makes sense.
 | Neutral  | Respect |
 | Mixed    | Fear    |
 | Enemies  | Hate    |
-| War      | Rivalry |
+| At War   | Rivalry |
 
-Choose between an _x/debt_ or _enemies/x_ reputation with the faction that previously occupied your lair's territory. You are always at least _mixed/x_ with the **cops**.
+You are always are at least _mixed/x_ with the **cops**, and have _some_ relationship to the **locals** around your lair.
 
 ## Entanglements Table
 
