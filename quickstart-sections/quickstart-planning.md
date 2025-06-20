@@ -8,6 +8,7 @@
   - Downtime
 - GM Rules
   - Principles
+  - Story Moves
   - Impact Moves
   - Tension Moves
   - Challenges
