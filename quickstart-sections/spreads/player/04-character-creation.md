@@ -32,7 +32,7 @@ During character creation, you may be required by certain professions to have ce
 
 ## Finishing Up
 
-- **Talents**: Choose one whose pre-requisites you meet.
+- **Skills**: Choose one whose pre-requisites you meet.
 - **Age**: Roll 2d and choose one or both to add to your age, representing your time before finding a crew.
 - **Traits**: Choose three that match your character and two that don't at all.
 - **Features**: Detail three distinctive outward features of your character.

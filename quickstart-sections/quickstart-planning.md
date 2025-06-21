@@ -12,7 +12,6 @@
   - Impact Moves
   - Tension Moves
   - Challenges
-  - Specialist Challenges
   - Factions
   - Vigilance
   - Initiative
