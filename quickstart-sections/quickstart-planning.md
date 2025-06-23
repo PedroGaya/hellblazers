@@ -31,3 +31,12 @@
 - Sandbox
 - Solo-Play
 - Content
+
+# TODO
+
+- [] Write introductory text - Check notes up to "Playing With Moxie".
+- [] Add examples to stuff - They count as words for the spread.
+- [] Write **quarrels** _somewhere_ - Talk about all ways to gain fate.
+- [] Improve crucible readability.
+- [] Add actual mechanics to linked challenges.
+- [] Reframe battlegrounds and enemies as challenges.
