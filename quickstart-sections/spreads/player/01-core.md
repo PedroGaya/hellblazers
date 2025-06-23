@@ -1,5 +1,3 @@
-# Page 01
-
 ## Core Mechanic
 
 When things get _risky_ and _dramatic_, roll to see what happens. Grab a few d6 (_d_) equal to the stat the GM picks to test, roll them, and take the highest to determine the outcome - 6: **Perfect**, 4-5: **Messy**, 1-3: **Grim**.
@@ -11,6 +9,10 @@ When things get _risky_ and _dramatic_, roll to see what happens. Grab a few d6 
 
 One or two d8s (_t_) added to your roll by the GM to reflect a tougher than normal task. Each 7 or 8 on a thorn **cuts** a roll's outcome by one step - perfect becomes messy, messy becomes grim, grim becomes a disaster. Thorns go from 0t (tough task) to 3t (impossible task).
 
+## Smooth Flow
+
+If a grim threatens to grind the story to a halt, the GM can **keep things moving** - you get what you want, but in a way that makes things much worse. If a roll somehow turns out to have no effect, you learn new info or setup for a follow up.
+
 ## Working Together
 
 - **Assist**: You help another PC on a roll. State **how & why**, then **_roll 1d and share the risk_**.
@@ -18,11 +20,7 @@ One or two d8s (_t_) added to your roll by the GM to reflect a tougher than norm
 - **Follow-up**: When a previous action makes a follow-up more effective, you assist without risk. You roll 1d as a normal assist, but don't share the risk.
 - **Outside Assistance**: When an assist or setup comes from the world, like an NPC or the environment, **_the GM Rolls 1d_** to represent it.
 
-# Page 02
-
-## Dice Rolls
-
-### Action Roll
+## Action Roll
 
 Roll to pull off something risky. State **how & why**, clarifying your intent. The GM picks the stat that matches your intentions.
 
@@ -30,32 +28,26 @@ Roll to pull off something risky. State **how & why**, clarifying your intent. T
 - **Messy**: You do it, but there's trouble. _Prompts an impact move_.
 - **Grim**: You fail, and there's trouble. _Prompts an impact move_.
 
-The GM makes an impact move to introduce consequences. You don't get a **defense roll** against impact moves prompted by your own action rolls.
+The GM makes an impact move to introduce consequences.
 
-### Defense Roll
+## Defense Roll
 
-Roll to avoid incoming trouble, **_but only when not caused by your own action_**. The GM calls for the roll and picks a stat to test.
+Roll to lessen or avoid incoming trouble by suffering some other, lesser consequence. The player calls for the roll.
 
-- **Perfect**: You avoid the trouble.
-- **Messy**: You avoid the brunt of the trouble. _The GM lightens the consequences_.
-- **Grim**: You fail to avoid trouble. _The GM follows through on the move_.
+The GM states by how much the trouble will be decreased, then picks a stat to test and sets the costs.
 
-### Montage Roll
+- **Perfect**: The consequence is lightened - _it is delayed_, _you take a mark_,.
+- **Messy**: The standard consequences - _take damage_, _a short-term condition_.
+- **Grim**: Severe consequences - _worsen reputation_, _get vexed_.
 
-Roll 2d to abstract a scene into a montage. The results determine how well it goes. If other PCs want to join in, each rolls 2d and shares the risk. You can't roll criticals during montages.
+## Story Roll
 
-### Tension Roll
+The GM rolls up to 3d to outsource decisions. Roll 1d for bad odds, 2d for even odds and 3d for good odds.
 
-The GM rolls the tension pool to outsource decisions to luck. Results unfavorable to players - "Perfect" is the worst outcome.
+- **Perfect**: It's the ideal situation.
+- **Messy**: It's okay, but there's a catch.
+- **Grim**: It's not good, and now it's a problem.
 
-## Diminishing Pools
+## Montage Roll
 
-A set of d6s used to track things like time, resources or effort. When **triggered**, roll the pool and **drop** 1d for each 1-3 result. At 0d, the pool **clears** and the fiction changes.
-
-- **Timer Pool**: Events unfolding in the background. Roll during key moments, when time passes, or a after few PCs take action.
-- **Danger Pool**: Threats becoming more likely. Roll during impact moves, major events or to increase threat level.
-- **Task Pool**: Effort to overcome tasks. Roll when progress is made in the task, usually an action roll.
-- **Resource Pool**: Quantity of something precious. Roll when the resource sees significant usage.
-- **Power Pool**: The power of some talents or items, rolled as part of using it or in place of a stat. The same roll determines the outcome and drops dice from the pool. **_You can roll fewer dice to risk losing less_**. Roll when the talent or item is used.
-
-If no dice are dropped from a task pool on a messy or perfect action roll, instead take a **secondary effect** - You can also always drop the last die in a task pool when triggered.
+Roll 2d to abstract a scene into a montage. If other PCs want to join in, each rolls 2d and shares the risk, the best result counts for the whole group. You can't roll criticals during montages. Interpret results as you would a story roll.

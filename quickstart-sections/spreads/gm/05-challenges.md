@@ -5,6 +5,7 @@ A framework to represent **_tasks_**, **_obstacles_**, **_enemies_**, and scenar
 - **Traits**: Qualities they have with strong narrative impact, inflicting thorns, denying permissions, or changing vantage.
 - **Moves**: Suggested _impact moves_ they might make. These are examples, not limitations.
 - **Fail States**: A trigger that signals the challenge failed, like a competing timer pool or a specific event. It prompts _Lock It In_.
+- **Bonus Tension**: Two bonus tension, to be spent only on this challenge's moves.
 
 Interpret these short, evocative phrases as it fits the situation. Keep your own created challenges similarly brief and flexible. Some uses:
 
@@ -17,7 +18,7 @@ Interpret these short, evocative phrases as it fits the situation. Keep your own
 
 1. **_Assign a task pool_** (4d, 6d, 8d) for its tenacity.
 2. **_Add traits_** (1 or 2) that shape the situation. Skip the obvious _(storm is windy)_ and highlight what matters _(strong winds are blinding)_. Keep them brief and evocative.
-3. **_List short, punchy moves_** (2 or 3) with flexible interpretations. These are examples, not limits. You can trigger them like any other impact move.
+3. **_List short, punchy moves_** (2 or 3) with flexible interpretations. These are examples, not limits. Trigger them like any other impact move, or with the bonus tension.
 4. **_Define a fail state_**, a specific trigger that prevents that challenge from being accomplished. Avoid obvious outcomes _(dying in a fight)_ and focus on what creates suspense and drama _(breaking a code of honor)_. Players should know the fail state unless mystery is part of the fun — and even then, make it clear one is in play.
 
 **Note**: _Not all of these parts are needed for a challenge._

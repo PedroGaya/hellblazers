@@ -12,7 +12,7 @@ _Break_ a scene when players are stuck, backed into a corner, or a scene feels d
 
 **Propose an interesting bargain to a PC. Take tension only if they accept.**
 
-_Bargain_ with a player by proposing a juicy bonus for their PC. Push **_dilemmas_** and **_drama_** towards their character details, or force their hand with consequences. In exchange, they may get bonus dice in a roll or advantages.
+_Bargain_ with a player by proposing a juicy bonus for their PC. Push **_dilemmas_** and **_drama_** towards their character details, or force their hand with consequences. In exchange, they may get bonus dice in a roll, advantages or just get what they want.
 
 Remember you only gain tension if they accept, so it's up to you to make the offer irresistible. Don't push hard — this mechanic is built to respect player agency. Don't punish for saying no.
 

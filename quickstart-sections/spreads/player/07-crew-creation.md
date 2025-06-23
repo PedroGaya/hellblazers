@@ -13,7 +13,7 @@ Choose an archetype from:
 Each provides a procedure for setting it up. In general:
 
 - **Traits**: Your shared traits as a crew expand your vantage when _working together_. Choose two that match and one that doesn't.
-- **Goals**: Shared by the group, may be represented with a pool. Choose or write at least one.
+- **Purpose**: Why are you a crew? What are your goals? What do you believe in? Answers are shared by the group. Write at least one.
 - **Hideout**: Pick a place for your base of operations. Be wary of factions already there.
 - **Upgrades**: Your **assets**, **contacts** or **cohorts** - Anything that bolster your capabilities as a crew. Choose two.
 - **Reputation**: Determine your starting reputations based on assets and hideout.
@@ -45,7 +45,7 @@ Examples:
 | Nurse         | Local Kids   |
 | Cyberdoc      | Punks        |
 | Drug Dealer   | Hired Muscle |
-| Courtesan     | Customers    |
+| Courtesan     | Regulars     |
 | Detective     | Scum         |
 | Quartermaster | Corrupt Cops |
 
@@ -62,7 +62,7 @@ The relationships of your crew with the factions and communities around them. Li
 | Enemies  | Hate    |
 | At War   | Rivalry |
 
-You are always are at least _mixed/x_ with the **cops**, and have _some_ relationship to the **locals** around your lair.
+You start at _mixed/x_ with the **cops**, and have _some_ relationship to the **locals** around your lair.
 
 ## Entanglements Table
 

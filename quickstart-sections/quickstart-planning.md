@@ -24,6 +24,7 @@
   - Investigation
   - Crafting
   - Stealth
+  - Quarrels
 - Advice
   - Player Advice
   - GM Advice
