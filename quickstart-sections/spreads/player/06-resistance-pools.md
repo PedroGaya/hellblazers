@@ -29,7 +29,7 @@ As the result of an impact move, or whenever you deplete a resistance pool, you 
 - Taking a **condition**;
 - Getting **trauma**;
 
-Taking two or more fallout leaves you **dropped** - out of the scene. You can take the same fallout more than once.
+Taking two or more fallout leaves you **dropped** - out of the scene. You can take the same fallout more than once. Whenever you take any fallout, **earn fate**.
 
 ## Conditions
 
@@ -42,7 +42,7 @@ Specific injuries or maladies that impact only relevant situations and are often
 
 **_Take +1t when a condition specifically hinders a roll_**. It can also make an attempt impossible. Conditions clear when it makes sense, like after a scene, with rest, or when a pool tracking them depletes. They may also require treatment or another specific method to clear them.
 
-## Scars
+## Trauma
 
 Change any character detail and **mark it** as trauma. You can:
 

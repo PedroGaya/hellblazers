@@ -4,6 +4,16 @@ _**Fate** represents your character's capacity to ride the synchronicity freeway
 
 - _**Get +1d on a roll**_ - To account for supernatural effort, _protagonist power_;
 - _**Introduce a fact** to the fiction as a **story twist**_ - Something that just happened to be true and that affects the scene;
+- _**Call for a defense roll**_ - Avoid or diminish consequences inflicted directly to them;
+
+You can **earn fate** by:
+
+- Rolling a **disaster** or **critical**;
+- Introducing a **complication**;
+- Taking **fallout**;
+- Good **roleplaying** (awarded during **downtime**);
+
+If you start a session with no fate, **earn fate**.
 
 ## Tension
 

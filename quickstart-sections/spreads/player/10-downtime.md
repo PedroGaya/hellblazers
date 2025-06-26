@@ -28,7 +28,25 @@ Don't attempt to add an entire scene as an entry - keep it punchy. List the move
 
 - **Heal**: Go to a doctor, hospital, or otherwise heal. Recover body equal to your lifestyle rating (minimum of one).
 - **Unwind**: Indulge, or otherwise relax. Recover mind equal to your lifestyle rating (minimum of one).
-- **Commune**: Shared time with the crew. Tally and spend xp, then recover all mind dice. All must pick at the same time.
+- **Commune**: Shared time with the crew. Reckon with **fate**, then fully recover mind. All must pick at the same time.
 - **Work**: The GM sets a diminishing pool according to the size of the work, as well as determining what happens when cleared. Roll it when working.
 - **Acquire**: Peruse and purchase _assets_ or _equipment_ not covered by your lifestyle rating.
 - **Circles**: Roll story to create or find useful NPCs, such as a _contact_ or _cohorts_. Results determine how the scene goes.
+
+## Reckoning With Fate
+
+During _Commune_, **fate** is awarded to characters based on criteria described below.
+
+For each character, work through these questions alone or as a group - If you answer "yes", or if it feels otherwise appropriate, **earn fate**.
+
+- **The Troublesome Questions**: Did your features, traits or other character details get you in trouble or create awkward situations?
+- **The Conviction Questions**: Did you manifest your beliefs? Did you follow them with purpose? Did you achieve a goal?
+- **The Vantage Questions**: Did you have the right skills at the right time? Did you keep the story moving?
+
+The awards below are given by **votes** - everyone can vote for any character, most voted gets the award and **earns fate**. Unlike the questions, where everyone can earn fate, each award is only given out once.
+
+- **The Embodiement Award**: Did you capture the mood at the table? Did you go above and beyond with roleplaying?
+- **The Moldbreaker Award**: Did your character struggle with inner turmoil? Were they tormented by conflict?
+- **The Defiance Award**: Did you defy fate at every turn? Did you go against the dice, at great cost?
+
+Any fate earned beyond the max of three is taken as bonus XP.

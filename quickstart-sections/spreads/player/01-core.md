@@ -2,8 +2,10 @@
 
 When things get _risky_ and _dramatic_, roll to see what happens. Grab a few d6 (_d_) equal to the stat the GM picks to test, roll them, and take the highest to determine the outcome - 6: **Perfect**, 4-5: **Messy**, 1-3: **Grim**.
 
-- A **critical** happens when you roll two or more 6s. **_Ignore any cuts_** and choose a **critical bonus**: _greater effect_ - _secondary effect_ - _setup a follow up_.
+- A **critical** happens when you roll two or more 6s. **_Ignore any cuts_** and choose a **critical bonus**: _greater effect_ - _secondary effect_ - _setup a follow up_ - _earn **fate**_.
 - A **disaster** happens when a grim result is cut by a **_thorn_**. Whatever the risk was before, _double it_.
+
+Whenever you roll a disaster, you **earn fate**.
 
 ## Thorns
 
@@ -22,22 +24,18 @@ If a grim threatens to grind the story to a halt, the GM can **keep things movin
 
 ## Action Roll
 
-Roll to pull off something risky. State **how & why**, clarifying your intent. The GM picks the stat that matches your intentions.
+Roll to pull off something risky. State **how & why**, clarifying your intent. The GM picks the stat that matches your intentions and makes impact moves to introduce consequences.
 
 - **Perfect**: You do it, and avoid trouble.
 - **Messy**: You do it, but there's trouble. _Prompts an impact move_.
 - **Grim**: You fail, and there's trouble. _Prompts an impact move_.
 
-The GM makes an impact move to introduce consequences.
-
 ## Defense Roll
 
-Roll to lessen or avoid incoming trouble by suffering some other, lesser consequence. The player calls for the roll.
-
-The GM states by how much the trouble will be decreased, then picks a stat to test and sets the costs.
+Roll to lessen or avoid incoming trouble by suffering some other consequence. Players can call for the roll by **spending fate**. The GM states by how much the trouble will be decreased, then picks a stat to test and sets the costs.
 
 - **Perfect**: The consequence is lightened - _it is delayed_, _you take a mark_,.
-- **Messy**: The standard consequences - _take damage_, _a short-term condition_.
+- **Messy**: The standard consequences - _take damage instead_, _a short-term condition_.
 - **Grim**: Severe consequences - _worsen reputation_, _get vexed_.
 
 ## Story Roll
