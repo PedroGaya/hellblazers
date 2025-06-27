@@ -29,7 +29,7 @@ As the result of an impact move, or whenever you deplete a resistance pool, you 
 - Taking a **condition**;
 - Getting **trauma**;
 
-Taking two or more fallout leaves you **dropped** - out of the scene. You can take the same fallout more than once. Whenever you take any fallout, **earn fate**.
+You can take the same fallout more than once and taking two or more leaves you **dropped** - out of the scene. Whenever you take any fallout, **earn fate**.
 
 ## Conditions
 
