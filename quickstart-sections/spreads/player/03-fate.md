@@ -3,8 +3,7 @@
 _**Fate** represents your character's capacity to ride the synchronicity freeway._ It's a d6, you can have up to three at a time, and can **spend** them to:
 
 - _**Get +1d on a roll**_ - To account for supernatural effort, _protagonist power_;
-- _**Introduce a fact** to the fiction as a **story twist**_ - Something that just happened to be true and that affects the scene;
-- _**Call for a defense roll**_ - Avoid or diminish consequences inflicted directly to them;
+- _**Introduce a story twist**_ - Something that just happened to be true and that affects the scene;
 
 You can **earn fate** by:
 
@@ -56,8 +55,18 @@ Character-driven **disadvantages** you add to a scene and have to follow-up on. 
 
 Character-driven **advantages** you add to a scene. Like with complications, these must be tied to your character. These are things like:
 
-- **_Character details_** that add to a scene, like gear or contacts;
-- **_Scene details_** that affect _your_ vantage, like NPC actions or features;
-- **_Setting details_**: History, geography, factions...
+- **_Character details_** that add to a scene.
+- **_Scene details_** that affect _your_ vantage.
+- **_Setting details_** like history and factions.
 
 **To introduce a coincidence, spend fate**.
+
+## Compromises
+
+**Exchange** one type of trouble for another of equal-or-worse severity. The GM has final say on what the exchange will be (you can always back out). These are things like:
+
+- Taking **mind damage** instead of **body damage**.
+- **Losing narrative opportunities** instead of **vex**.
+- Suffering **a long-term conditions** instead of **dropped**.
+
+**To introduce a compromise, spend fate**.

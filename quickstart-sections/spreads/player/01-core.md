@@ -32,11 +32,11 @@ Roll to pull off something risky. State **how & why**, clarifying your intent. T
 
 ## Defense Roll
 
-Roll to lessen or avoid incoming trouble by suffering some other consequence. Players can call for the roll by **spending fate**. The GM states by how much the trouble will be decreased, then picks a stat to test and sets the costs.
+Roll to avoid incoming trouble, **_but only when not caused by your own action_**. The GM calls for the roll and picks a stat to test.
 
-- **Perfect**: The consequence is lightened - _it is delayed_, _you take a mark_,.
-- **Messy**: The standard consequences - _take damage instead_, _a short-term condition_.
-- **Grim**: Severe consequences - _worsen reputation_, _get vexed_.
+- **Perfect**: You avoid the trouble.
+- **Messy**: You avoid the brunt of the trouble. _The GM lightens the consequences_.
+- **Grim**: You fail to avoid trouble. _The GM follows through on the move_.
 
 ## Story Roll
 
