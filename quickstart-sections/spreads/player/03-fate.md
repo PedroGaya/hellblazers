@@ -49,7 +49,7 @@ Character-driven **disadvantages** you add to a scene and have to follow-up on. 
 - **_Personal motivations_** over group goals.
 - **_Trouble_** from _your_ beliefs or backstory.
 
-**Whenever you introduce a complication, take a tension die as fate**.
+**Whenever you introduce a complication, take fate**.
 
 ## Coincidences
 
@@ -65,8 +65,8 @@ Character-driven **advantages** you add to a scene. Like with complications, the
 
 **Exchange** one type of trouble for another of equal-or-worse severity. The GM has final say on what the exchange will be (you can always back out). These are things like:
 
-- Taking **mind damage** instead of **body damage**.
-- **Losing narrative opportunities** instead of **vex**.
-- Suffering **a long-term conditions** instead of **dropped**.
+- Taking **_mind damage_** instead of **_body damage_**.
+- **_Losing narrative opportunities_** instead of **_vex_**.
+- Suffering **_a long-term conditions_** instead of **_dropped_**.
 
 **To introduce a compromise, spend fate**.
