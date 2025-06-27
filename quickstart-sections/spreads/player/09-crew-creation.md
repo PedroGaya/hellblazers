@@ -58,14 +58,14 @@ Examples:
 
 The relationships of your crew with the factions and communities around them. Like with bonds, match standing with nature. You're free to write your own natures, but standings always range from "Allies" to "At War".
 
-| Standing | Nature  |
-| -------- | ------- |
-| Allies   | Debt    |
-| Positive | Revenge |
-| Neutral  | Respect |
-| Mixed    | Fear    |
-| Enemies  | Hate    |
-| At War   | Rivalry |
+| Standing | Nature      |
+| -------- | ----------- |
+| Allies   | Debt        |
+| Positive | Coexistance |
+| Neutral  | Respect     |
+| Mixed    | Fear        |
+| Enemies  | Hate        |
+| At War   | Rivalry     |
 
 ## Entanglements Table
 
