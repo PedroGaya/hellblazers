@@ -4,10 +4,13 @@
 
 Choose an archetype from:
 
-- Occult Investigators
+- Investigators
+- Vigilantes
+- Mercenaries
+- Terrorists
 - Shady Cult
-- Cyber-Terrorists
-- Illegal Gas-Biker Gang
+- Motor-Gang
+- Kids On Bikes
 - Scrappy Losers Stuck Together
 
 Each provides a procedure for setting it up. In general:
@@ -15,13 +18,15 @@ Each provides a procedure for setting it up. In general:
 - **Traits**: Your shared traits as a crew expand your vantage when _working together_. Choose two that match and one that doesn't.
 - **Purpose**: Why are you a crew? What are your goals? What do you believe in? Answers are shared by the group. Write at least one.
 - **Hideout**: Pick a place for your base of operations. Be wary of factions already there.
-- **Upgrades**: Your **assets**, **contacts** or **cohorts** - Anything that bolster your capabilities as a crew. Choose two.
-- **Reputation**: Determine your starting reputations based on assets and hideout.
-- **Resources**: Acquisitional power shared by the crew.
+- **People and Stuff**: Your **assets**, **contacts** or **cohorts** - Anything that bolster your capabilities as a crew. Choose two.
+- **Goals**: Establish some concrete goals for the crew. What are you out to get right now? Write at least one and assign pool if needed.
+- **Reputation**: Determine your starting reputations based on assets and hideout. Start at _mixed/x_ with the **cops**, and with _some_ relationship to the **locals**.
+- **Resources**: Abstracted acquisitional power shared by the crew.
+- **Entanglements**: Each crew members can add one entry to the table - Note that, after this point, only the GM will be able to add entries.
 
 ## Assets
 
-Your assets represent **equipment**, **territory claims** or **improvements** to the hideout.
+Your assets represent **goods**, **territory claims** or **improvements** to the hideout.
 
 Examples:
 
@@ -36,7 +41,7 @@ Examples:
 
 ## Contacts and Cohorts
 
-These are the people willing to help the crew. **Contacts** are specific people, usually specialists of some kind. **Cohorts** are your generic helpers or goons, they act as a group on tasks they're capable of.
+These are the people willing to help the crew. **Contacts** are specific people, usually specialists of some kind. **Cohorts** are your helpers or goons.
 
 Examples:
 
@@ -61,8 +66,6 @@ The relationships of your crew with the factions and communities around them. Li
 | Mixed    | Fear    |
 | Enemies  | Hate    |
 | At War   | Rivalry |
-
-You start at _mixed/x_ with the **cops**, and have _some_ relationship to the **locals** around your lair.
 
 ## Entanglements Table
 
