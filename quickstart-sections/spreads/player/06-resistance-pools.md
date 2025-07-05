@@ -23,13 +23,13 @@ Whenever a character takes **damage**, drop a die from either resistance pool, o
 
 ## Fallout
 
-As the result of an impact move, or whenever you deplete a resistance pool, you may take **fallout**. The GM tells you _how much_ fallout to (at least one, up to three), but you choose whatever makes the most sense from:
+As the result of an impact move, or whenever you deplete a resistance pool, you may take **fallout**. The GM tells you how much fallout to take, choosing whatever makes the most sense from:
 
 - Destroyed **equipment** or **cyberware**;
 - Taking a **condition**;
 - Getting **trauma**;
 
-You can take the same fallout more than once and taking two or more leaves you **dropped** - out of the scene. Whenever you take any fallout, **earn fate**.
+You can take the same fallout more than once and taking two or more at once leaves you **dropped** - out of the scene. Whenever you take any fallout, **earn fate**.
 
 ## Conditions
 

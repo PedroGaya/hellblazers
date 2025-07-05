@@ -2,10 +2,8 @@
 
 When things get _risky_ and _dramatic_, roll to see what happens. Grab a few d6 (_d_) equal to the stat the GM picks to test, roll them, and take the highest to determine the outcome - 6: **Perfect**, 4-5: **Messy**, 1-3: **Grim**.
 
-- A **critical** happens when you roll two or more 6s. **_Ignore any cuts_** and choose a **critical bonus**: _greater effect_ - _secondary effect_ - _setup a follow up_ - _earn **fate**_.
-- A **disaster** happens when a grim result is cut by a **_thorn_**. Whatever the risk was before, _double it_.
-
-Whenever you roll a disaster, you **earn fate**.
+- A **critical** happens when you roll two or more 6s. **_Ignore any cuts_** and choose a **critical bonus**: _greater effect_ - _secondary effect_ - _setup a follow up_ - _**earn fate**_.
+- A **disaster** happens when a grim result is cut by a **_thorn_**. Whatever the risk was before, _double it_. You also **earn fate**.
 
 ## Thorns
 

@@ -48,7 +48,7 @@ Character-driven **disadvantages** you add to a scene and have to follow-up on. 
 - **_Personal motivations_** over group goals.
 - **_Trouble_** from _your_ beliefs or backstory.
 
-**Whenever you introduce a complication, take fate**.
+**Whenever you introduce a complication, earn fate**.
 
 ## Coincidences
 
@@ -56,7 +56,7 @@ Character-driven **advantages** you add to a scene. Like with complications, the
 
 - **_Character details_** that add to a scene.
 - **_Scene details_** that affect _your_ vantage.
-- **_Setting details_** like history and factions.
+- **_Setting details_** like history related to your character.
 
 **To introduce a coincidence, spend fate**.
 
@@ -66,6 +66,6 @@ Character-driven **advantages** you add to a scene. Like with complications, the
 
 - Taking **_mind damage_** instead of **_body damage_**.
 - **_Losing narrative opportunities_** instead of **_vex_**.
-- Suffering **_a long-term conditions_** instead of **_dropped_**.
+- Suffering **_a long-term condition_** instead of **_dropped_**.
 
 **To introduce a compromise, spend fate**.
