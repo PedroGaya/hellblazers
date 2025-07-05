@@ -10,7 +10,6 @@ You can **earn fate** by:
 - Rolling a **disaster** or **critical**;
 - Introducing a **complication**;
 - Taking **fallout**;
-- Good **roleplaying** (awarded during **downtime**);
 
 If you start a session with no fate, **earn fate**.
 
