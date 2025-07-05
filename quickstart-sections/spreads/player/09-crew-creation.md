@@ -22,7 +22,7 @@ Each provides a procedure for setting it up. In general:
 - **Goals**: Establish some concrete goals for the crew. What are you out to get right now? Write at least one and assign pool if needed.
 - **Reputation**: Determine your starting reputations based on assets and hideout. Start at _mixed/x_ with the **cops**, and with _some_ relationship to the **locals**.
 - **Resources**: Abstracted acquisitional power shared by the crew.
-- **Entanglements**: Each crew members can add one entry to the table - Note that, after this point, only the GM will be able to add entries.
+- **Entanglements**: Each crew members can add one entry to the table (up to 6) - Note that, after this point, only the GM will be able to add entries.
 
 ## Assets
 
@@ -70,3 +70,5 @@ The relationships of your crew with the factions and communities around them. Li
 ## Entanglements Table
 
 A shared repository of possible events that may happen to the crew during downtime. During crew creation, each player may add an entry, after which point the GM takes over the table's management.
+
+**The table has up to six entries**, each represented by an **impact move** tracked by a **pool**. **Once depleted, the impact move is prompted**. **When an entanglement is triggered, roll its pool**.

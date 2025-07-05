@@ -3,7 +3,7 @@
 Between sessions, track off-screen developments of major forces, creating a feeling of a living world beyond the PCs. They have:
 
 - **Resources** that show their power and influence - like **assets** and **capital** - allocated to a **front**.
-- **Goals** that show their ambitions. Track each with a **goal pool** and a **fail pool** (like a challenge).
+- **Goals** that show their ambitions. Track with challenges, each using at least a **goal pool** and a **fail pool**.
 - **Agendas** that represent their ambitions and philosophy, as well as **representatives** that embody and push these agendas.
 
 ## Fronts
@@ -38,6 +38,6 @@ When resolving moves, check if there is a surplus of **support** onto _Consolida
 
 ## Against The Crew
 
-**Factions moves can be made against the crew as if they were impact moves**. You can target their assets, contacts, cohorts or reputation through faction goals, or when otherwise prompted (spend tension or from entanglements).
+**Factions moves can be made against the crew as if they were impact moves**. You can target their assets, contacts, cohorts or reputation - Through faction goals, or when otherwise prompted. Instead of making an impact move, you may also trigger a relevant entanglement.
 
 **The crew is not a faction** - The PCs are _punks_ and in no way have access to the **capital** necessary to operate a faction. However, they can act alongside or against any faction, as well as play a hand in the faction game by targeting faction goals, fail states, assets, etc.
