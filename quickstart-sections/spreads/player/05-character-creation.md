@@ -1,45 +1,59 @@
 # Page 07-08
 
-## Character Creation
+## Character Creation In Summary
 
-Characters start with two life paths - Each includes six professions, granting unique stats and wises. Turning points tell you how you left the first path for the second, then finally how you left the second and found your crew.
+1. Roll for your early days - 1d6 for starting resources, 1d6 for upbringing
+2. Acquire an NDI with your starting resources (you can get in debt), or become a **_non-citizen_**.
+3. Roll for starting age.
+4. Roll 1d6 twice for life paths and choose one.
+5. Roll 1d6 twice for opportunities within your path and choose one.
+6. Decide on a turning point, roll for aging, then return to (4) if you want to.
+7. Give yourself a name, traits and features.
 
-### Upbringing
+## Early Days
 
-- **Age**: Start at 16 y/o.
-- **Stats**: Start with 1 in each.
-- **Social Class**: Roll 2d, pick one and increase its indicated stats.
-- **Birthplace**: Roll 2d, pick one.
-- **Resources and Lifestyle**: Set them as indicated by your social class.
+Start character creation by rolling 1d6 for resources and 1d6 for upbringing:
 
-### Life Paths
+- **1-3** for **2 resources**, poor
+- **4/5** for **3 resources**, less poor
+- **6** for **4 resources**, middle class
 
-- **Path**: Roll 2d, pick one.
-- **Profession**: Roll 2d, pick one.
-- **Resources**: Add the listed amount to your character sheet.
-- **Lifestyle**: Modify it by the indicated amount.
-- **Stats**: Increase indicated stats by one.
-- **Wises**: Note down your three wises, or create your own.
-- **Equipment and Cyberware**: Spend your resources to buy what you want _and_ what is **required** of you.
-- **Age**: Roll 3d, choose 2 to add to age.
-- **Turning Point**: Roll 2d, pick one.
+- **1-3** for **Upper City Life** - 1 fate, 1 endurance
+- **4/5** for **Lower City Life** - 2 fate, 1 endurance, -1 resources, 1 cash
+- **6** for **Offworld** - 1 fate, 1 endurance, -1 resources, 2 cash
 
-Repeat for the second life path.
+After rolling, if you were raised in the upper city, you must acquire a neurodigital interface - Make the acquisition with your starting resources, use cash if you must. If you were raised in the lower city or offworld, you can forgo the acquisition and live as a **_non-citizen_**:
 
-### Debts
+- All other acquisitions during character creation cost +1 resources.
+- You can't take government opportunities, although shady corporations may be willing to hire you.
 
-During character creation, you may be required by certain professions to have certain pieces of cyberware or expensive equipment. Of course, **you have to pay for these**. If you can't, choose a different profession or work with your GM to create a debt-holder NPC, then add one or more **debt bonds** to your character sheet to acquire what you need.
+You can pay twice as much for a **_ghosted_** NDI - By exploiting a known, unfixable, vulnerability in certain algorithms, all government systems and most corporate systems will flag you as a citizen without you or your cyberware being actually registered (ignore all consequences of being a non-citizen).
+
+| Neurodigital Interface | Description                            | Price       |
+| ---------------------- | -------------------------------------- | ----------- |
+| Standard               | Can be found in dumpsters, 2 slots     | 2 resources |
+| High-End               | Imported from Earth, 1 slots           | 4 resources |
+| Elite                  | Used by athletes or millitary, 0 slots | 6 resources |
+
+If you are a non-citizen or newborn, then at any point during character creation, you can take -1 max resources to acquire a City-Provided NDI: You agree to sell your NDI data in perpetuity and exclusivity to the city and get to be a citizen for it. You otherwise can't get in debt during this step of character creation, as your support network is footing the bills.
+
+Now, roll 12 + d6 for your starting age, then roll 1d6 twice and choose one for life path.
+
+## Life Paths
+
+- **Opportunities**: A d6 table with careers, trades and other such things. Each modifies your stats, endurance and resources by a set amount.
+- **Wises**: Each life path provides a wide range of wises - Choose two from the list, or write your own.
+- **Equipment and Cyberware**: Some opportunities may require you to buy stuff - If that's your only option, get into debt. Otherwise, pick the other one.
+- **Age**: Roll 1d6 three times, choose two to add to your age.
+- **Turning Point**: A d6 table with common ways to leave the path. Roll 1d6 twice and pick one, or write your own.
+
+Notice that your upbringing gave you a starting amount of fate points - You may spend them now during character creation to skip rolling on a table and choose an entry instead.
 
 ## Finishing Up
 
-- **Talents**: Choose one whose pre-requisites you meet.
-- **Age**: Roll 2d and choose one or both to add to your age, representing your time before finding a crew.
 - **Traits**: Choose three that match your character and two that don't at all.
 - **Features**: Detail three distinctive outward features of your character.
-- **Bonds**: Write or roll one for each PC.
+- **Bonds**: Write or roll one per path (with either NPCs or factions).
 - **Beliefs**: Write at least one and up to three.
-- **Resistances**: Each is a diminishing pool of size equal to the sum of its paired stats.
-
-## Archetypes
-
-Instead of building a character from the ground up, you can use an **archetype**. Each has specific rules on how to create your character, and they all output a character of a certain kind. If you just want to quickly build _a type of guy_, choose the appropriate archetype.
+- **Resources**: Subtract your strain from your resources - This is your new max. Zero your strain.
+- **Joining The Crew**: Use your last turning point as a reason, or write your own. Write bonds with PCs as you see fit.

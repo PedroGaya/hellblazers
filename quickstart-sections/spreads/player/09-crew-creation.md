@@ -2,33 +2,17 @@
 
 ## Crew Creation
 
-Choose an archetype from:
-
-- Investigators
-- Vigilantes
-- Mercenaries
-- Terrorists
-- Shady Cult
-- Motor-Gang
-- Kids On Bikes
-- Scrappy Losers Stuck Together
-
-Each provides a procedure for setting it up. In general:
-
-- **Traits**: Your shared traits as a crew expand your vantage when _working together_. Choose two that match and one that doesn't.
-- **Purpose**: Why are you a crew? What are your goals? What do you believe in? Answers are shared by the group. Write at least one.
-- **Hideout**: Pick a place for your base of operations. Be wary of factions already there.
-- **People and Stuff**: Your **assets**, **contacts** or **cohorts** - Anything that bolster your capabilities as a crew. Choose two.
+- **Purpose**: Why are you a crew? What do you believe in? Answers are shared by the group. Write at least one.
 - **Goals**: Establish some concrete goals for the crew. What are you out to get right now? Write at least one and assign pool if needed.
+- **Traits**: Your shared traits as a crew expand your vantage when _working together_. Choose two that match and one that doesn't.
+- **Hideout**: Pick a place for your base of operations. Be wary of factions already there.
+- **People and Stuff**: Your **assets**, **specialists** or **cohorts** - Anything that bolster your capabilities as a crew. Choose a specialist or a cohort.
 - **Reputation**: Determine your starting reputations based on assets and hideout. Start at _mixed/x_ with the **cops**, and with _some_ relationship to the **locals**.
-- **Resources**: Abstracted acquisitional power shared by the crew.
 - **Entanglements**: Each crew members can add one entry to the table (up to 6) - Note that, after this point, only the GM will be able to add entries.
 
 ## Assets
 
 Your assets represent **goods**, **territory claims** or **improvements** to the hideout.
-
-Examples:
 
 | Goods             | Claims     | Improvements       |
 | ----------------- | ---------- | ------------------ |
@@ -39,11 +23,9 @@ Examples:
 | Supplies          | Dive Bar   | Medical Bay        |
 | Drugs and Alcohol | Building   | Cover Operation    |
 
-## Contacts and Cohorts
+## Specialists and Cohorts
 
-These are the people willing to help the crew. **Contacts** are specific people, usually specialists of some kind. **Cohorts** are your helpers or goons.
-
-Examples:
+These are the people willing to help the crew. **Specialists** are specific people. **Cohorts** are your generic helpers or goons.
 
 | Contacts      | Cohorts      |
 | ------------- | ------------ |
@@ -61,7 +43,7 @@ The relationships of your crew with the factions and communities around them. Li
 | Standing | Nature      |
 | -------- | ----------- |
 | Allies   | Debt        |
-| Positive | Coexistance |
+| Friends  | Coexistance |
 | Neutral  | Respect     |
 | Mixed    | Fear        |
 | Enemies  | Hate        |
@@ -71,4 +53,4 @@ The relationships of your crew with the factions and communities around them. Li
 
 A shared repository of possible events that may happen to the crew during downtime. During crew creation, each player may add an entry, after which point the GM takes over the table's management.
 
-**The table has up to six entries**, each represented by an **impact move** tracked by a **pool**. **Once depleted, the impact move is prompted**. **When an entanglement is triggered, roll its pool**.
+**The table has up to eight entries**, each represented by a **pool** - **Once depleted, an impact move is prompted**. **When an entanglement is triggered, roll its pool**.

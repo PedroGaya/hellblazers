@@ -4,7 +4,7 @@ A collection of loose money, credit and favors, ultimately an abstraction of you
 
 ## Lifestyle
 
-If you are unsure of your character's purchasing power, rely on their **lifestyle stat**. It abstracts the sum total of your character's investments or other signifiers of income. To increase it, purchase **assets** such as expensive equipment or a home. Each asset increases your lifestyle by 1 and costs **(new lifestyle rating) \* 10 resources**. They're of a quality or prestige proportional to your new lifestyle.
+If you are unsure of your character's purchasing power, rely on their **lifestyle stat**. It abstracts the sum total of your character's investments or other signifiers of income. To increase it, purchase **assets** such as expensive equipment or a home. Each asset increases your lifestyle by 1 and costs **10 \* 2^(new lifestyle rating) resources**. They're of a quality or prestige proportional to your new lifestyle.
 
 | Lifestyle | Affordable Stuff                            |
 | --------- | ------------------------------------------- |

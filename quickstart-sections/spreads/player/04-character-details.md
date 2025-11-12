@@ -21,7 +21,7 @@ Your core capabilities rated from 1/_poor_ to 4/_excellent_, used for action and
 
 ## Resistances
 
-A character's health is abstracted into two different resource pools, one for _physical_ resistance - their **body** - and one for _mental_ resistance - their **mind**. Each's size is equal to the sum of their corresponding paired stats.
+A character's health is abstracted into two different resource pools, one for _physical_ resistance - their **body** - and one for _mental_ resistance - their **mind**. Each's size is equal to the sum of their corresponding paired stats. physic
 
 ## Experience Points
 

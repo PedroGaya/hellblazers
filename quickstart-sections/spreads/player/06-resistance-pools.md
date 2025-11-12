@@ -8,7 +8,13 @@ An intense flash of emotion like _anger, fear, or confusion_. Vex prompts an imm
 
 A mark is slight harm - a bruise, sprain, headache, dizzyness, etc. Often taken as consequences from _messy rolls_. When suffered, mark the stat most relevant to the harm - You get _+1t_ on your next roll with that stat, then clear the mark.
 
-If you would mark an already marked stat, mark its paired stat instead. If both are already marked, take regular damage instead.
+If you would mark an already marked stat, mark its paired stat instead. If both are already marked, take regular damage instead. Marks clear after rolls or after enough time has passed (up to GM).
+
+## Conditions
+
+Specific injuries or maladies that impact only relevant situations and are often lasting.
+
+**_Take +1t when a condition specifically hinders a roll_**. It can also make an attempt impossible. Unlike marks, conditions only clear when it makes sense, like after a scene, with rest, or when a pool tracking them depletes. They may also require treatment or another specific method to clear them.
 
 ## Damage
 
@@ -23,41 +29,18 @@ Whenever a character takes **damage**, drop a die from either resistance pool, o
 
 ## Fallout
 
-As the result of an impact move, or whenever you deplete a resistance pool, you may take **fallout**. The GM tells you how much fallout to take, choosing whatever makes the most sense from:
+Whenever you deplete a resistance pool, you take **fallout** and it leaves you **dropped** - out of the scene. When you take fallout, some details on your character sheet _will_ change. Choose whatever makes the most sense from:
 
-- Destroyed **equipment** or **cyberware**;
-- Taking a **condition**;
-- Getting **trauma**;
-
-You can take the same fallout more than once and taking two or more at once leaves you **dropped** - out of the scene. Whenever you take any fallout, **earn fate**.
-
-## Conditions
-
-Specific injuries or maladies that impact only relevant situations and are often lasting. Can be:
-
-- **_Urgent_**.
-- **_Short-term_**.
-- **_Long-term_**.
-- **_Permanent_**.
-
-**_Take +1t when a condition specifically hinders a roll_**. It can also make an attempt impossible. Conditions clear when it makes sense, like after a scene, with rest, or when a pool tracking them depletes. They may also require treatment or another specific method to clear them.
-
-## Trauma
-
-Change any character detail and **mark it** as trauma. You can:
-
-- Strain a **bond**;
-- Embody or reject a **trait**;
-- Change a **belief**;
-- Gain a **feature**;
+- Straining a **bond**;
+- Embodying or rejecting a **trait**;
+- Changing a **belief**;
+- Gaining a **feature**;
 - Anything else that makes sense.
 
-Describe your character’s trauma reaction in the current circumstance. You decide how intense this reaction is, and if it causes a problem for your character. To heal from trauma, work with the GM to find an appropriate method; Each character's trauma is personal, and the path to recovery should be, too.
+In any case, highlight the change on your character sheet and describe your character’s reaction in the current circumstance - You decide how intense this reaction is, and if it causes a problem.
 
-## Long-Term Afflictions
-
-**_Players have final say on any long-term conditions and trauma._** In these cases, work with the GM to find a good fit your your PC and the situation. This includes **character death**.
+If it was **traumatic**, portray it as such and work with the GM to find an appropriate healing method, if any; Each character's trauma is personal, and the path to recovery should be, too.
 
 ## Death
 
-Death does not come unwarranted - it must be clearly understood as a possibility from the get go. Whenever you're about to take damage, the GM may indicate it as **lethal**: You always take three fallout and, if you are dropped, the GM makes a story roll under a cup - your character is dead on a grim.
+Death does not come unwarranted - it must be clearly understood as a possibility from the get go. Whenever you're about to take damage, the GM may indicate it as **lethal**: If you are dropped from it, the GM makes a story roll under a cup - your character is dead on a bad roll.

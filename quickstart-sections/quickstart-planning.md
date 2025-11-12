@@ -1,42 +1,23 @@
-- Player Rules
-  - Core
-  - Fate
-  - Character
-  - Resistance
-  - Equipment/Cyberware
-  - Crew
-  - Downtime
-- GM Rules
-  - Principles
-  - Story Moves
-  - Impact Moves
-  - Tension Moves
-  - Challenges
-  - Factions
+- GM Advice
+  - GM With Moxie
+    - Just what's already in Grimwild
+  - Dealing Consequences
+    - THE TABLE!
+  - Using Diminishing Pools
+    - Use concrete examples
+    - Talk about how they represent the world
+  - Playing At The World
+    - See: Electric Bastionland
+- Common Scenarios
+  - Generic Challenges
+    - Mix concepts from the monsters blocks
+    - Expand on linked challenges
+  - Spark Tables
+    - Creating dynamic tables for your game
+    - Static tables, pre-made
   - Vigilance
+    - Keep as is from Grimwild - Make it clearer.
   - Initiative
-- Scenarios
+    - Many options, no definitive way
   - Combat
-  - Hacking
-  - Heist
-  - Chase
-  - Negotiation
-  - Investigation
-  - Crafting
-  - Stealth
-  - Quarrels
-- Advice
-  - Player Advice
-  - GM Advice
-- Sandbox
-- Solo-Play
-- Content
-
-# TODO
-
-- [] Write introductory text - Check notes up to "Playing With Moxie".
-- [] Add examples to stuff - They count as words for the spread.
-- [] Write **quarrels** _somewhere_ - Talk about all ways to gain fate.
-- [] Improve crucible readability.
-- [] Add actual mechanics to linked challenges.
-- [] Reframe battlegrounds and enemies as challenges.
+    - Streamline it to that MCDM video on 4e combat
